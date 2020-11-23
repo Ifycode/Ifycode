@@ -1,7 +1,8 @@
 ### Hi there 👋
-| Add Image A | Add Image B |
-|--------- | -------- |
 <!--
+| ![Spendbuddy](./SubtrackerApp1 (1).gif) | Add Image B |
+|--------- | -------- |
+
 **Ifycode/Ifycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
