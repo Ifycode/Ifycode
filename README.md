@@ -1,8 +1,14 @@
 ### Hi there 👋
-| Add Image A | Add Image B |
-|--------- | -------- |
+
+| Add more content soon |
+|---------------------- |
+
 
 <!--
+| Add Image A | Add Image B |
+|------------ | ----------- |
+
+
 | ![Spendbuddy](./subtracker-app.gif) | Add Image B |
 |--------- | -------- |
 
