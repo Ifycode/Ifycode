@@ -1,5 +1,5 @@
 ### Hi there 👋
-| Add image A | Add Image B |
+| Add Image A | Add Image B |
 |--------- | -------- |
 
 <!--
