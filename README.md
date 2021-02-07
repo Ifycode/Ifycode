@@ -1,10 +1,17 @@
-### Hi there 👋
+### Mary says hello 👋🏽
+
+Busy working on projects 📝 that will make up my portfolio. 
+
+| ![Youser app Figma design](./youser-resources-figma.png) |
+|--------- |
+
+
+
+<!--
 
 | Add more content soon |
 |---------------------- |
 
-
-<!--
 | Add Image A | Add Image B |
 |------------ | ----------- |
 
