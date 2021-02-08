@@ -1,11 +1,13 @@
 ### Mary says hello 👋🏽
 
 Busy working on projects 📝 that will make up my portfolio.
+
+Adding more content soon.
+
 | Youser Moodboard |
 |------------------|
 | ![Youser app Figma design](./youser-resources-figma.png) |
 
-Adding more content soon.
 
 <!--
 
