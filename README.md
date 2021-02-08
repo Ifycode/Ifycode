@@ -4,7 +4,6 @@ Busy working on projects 📝 that will make up my portfolio.
 | Youser Moodboard |
 |------------------|
 | ![Youser app Figma design](./youser-resources-figma.png) |
-|--------- |
 
 Adding more content soon.
 
