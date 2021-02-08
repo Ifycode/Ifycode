@@ -6,7 +6,7 @@ Adding more content soon.
 
 | ![Youser app Figma design](./youser-resources-figma.png) |
 |------------------|
-###### Youser Moodboard
+**Youser Moodboard**
 
 <!--
 
