@@ -8,9 +8,11 @@ Adding more content soon.
 |------------------|
 Youser Moodboard
 
+<!--
 | ![Youser app landing page design](./home-completed.png) |
 |------------------|
 Youser Landing Page
+-->
 
 <!--
 
