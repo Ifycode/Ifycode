@@ -4,7 +4,7 @@ Busy working on projects 📝 that will make up my portfolio.
 
 Adding more content soon.
 
-| ![Youser app mood board](./youser-moodboard.png) | ![Youser app landing page design](./youser-home-design.png) |
+| ![Youser app mood board](./youser-moodboard-long.png) | ![Youser app landing page design](./youser-home-design.png) |
 |------------------|------------------|
 |Youser Moodboard|Youser Home|
 
