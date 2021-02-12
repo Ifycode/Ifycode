@@ -6,12 +6,14 @@ Adding more content soon.
 
 | ![Youser app mood board](./youser-moodboard-long.png) | ![Youser app landing page design](./youser-home-design.png) |
 |------------------|------------------|
-|Youser Moodboard|Youser Home|
+
 
 <!--
 | ![Youser app landing page design](./home-completed.png) |
 |------------------|
 Youser Landing Page
+
+|Youser Moodboard|Youser Home|
 -->
 
 <!--
