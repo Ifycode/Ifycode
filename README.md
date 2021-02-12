@@ -1,4 +1,4 @@
-### Mary says hello
+### Mary says hello 👋🏽
 
 Busy working on projects 📝 that will make up my portfolio.
 
