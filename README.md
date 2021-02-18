@@ -1,11 +1,18 @@
-### Mary says hello 👋🏽
-
-Busy working on projects 📝 that will make up my portfolio.
-
-Adding more content soon.
+## Mary says hello 👋🏽
 
 | ![Youser design all pages](./youser-design.png) |
 |------------------|
+
+- 🔭 I’m currently working on my portfolio projects (MEAN stack).
+- 🌱 I’m currently learning web design and mongoDB.
+- 👯 I’m looking to collaborate on projects that involve angular.
+- 💬 Ask me about... 🤔
+- 📫 How to reach me: obiagba.mary.ifeoma@gmail.com
+
+
+
+
+
 
 
 <!--
