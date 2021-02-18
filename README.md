@@ -1,6 +1,6 @@
 ## Mary says hello 👋🏽
 
-Hi, I'm Obiagba Mary. Welcome to my GitHub profile page. 
+Hi, I'm Obiagba Mary. Welcome to my GitHub profile page. I spend my time learning from and contributing to twitter dev community and stackflow.
 
 I’m currently working on one my portfolio projects - youser app (using figma + MEAN stack) 👇🏽
 
