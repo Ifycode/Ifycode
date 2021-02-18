@@ -1,15 +1,18 @@
 ## Mary says hello 👋🏽
 
-Hi, I'm Obiagba Mary. Welcome to my GitHub profile page.
+Hi, I'm Obiagba Mary. Welcome to my GitHub profile page. 
+
+- 🔭 I’m currently working on one my portfolio projects - youser app (using figma + MEAN stack).
 
 | ![Youser design all pages](./youser-design.png) |
 |------------------|
 
-- 🔭 I’m currently working on my portfolio projects (MEAN stack).
 - 🌱 I’m currently learning web design and mongoDB.
 - 👯 I’m looking to collaborate on projects that involve angular.
 - 💬 Ask me about... 🤔
 - 📫 How to reach me: obiagba.mary.ifeoma@gmail.com
+
+
 
 
 
