@@ -1,5 +1,7 @@
 ## Mary says hello 👋🏽
 
+Hi, I'm Obiagba Mary. Welcome to my GitHub profile page.
+
 | ![Youser design all pages](./youser-design.png) |
 |------------------|
 
