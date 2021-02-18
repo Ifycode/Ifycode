@@ -2,7 +2,7 @@
 
 Hi, I'm Obiagba Mary. Welcome to my GitHub profile page. 
 
-🔭 I’m currently working on one my portfolio projects - youser app (using figma + MEAN stack).
+I’m currently working on one my portfolio projects - youser app (using figma + MEAN stack) 👇🏽
 
 | ![Youser design all pages](./youser-design.png) |
 |------------------|
