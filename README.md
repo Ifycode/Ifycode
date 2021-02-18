@@ -7,8 +7,9 @@ I’m currently working on one my portfolio projects - youser app (using figma +
 | ![Youser design all pages](./youser-design.png) |
 |------------------|
 
-- 🌱 I’m currently learning web design and mongoDB.
+- 🌱 I’m currently learning about CS, web design and mongoDB.
 - 👯 I’m looking to collaborate on projects that involve angular.
+- ⚡ Fun fact: I and my acoustic bluemay 😍 (acoustic guitar 🎸) are one 😌.
 - 💬 Ask me about... 🤔
 - 📫 How to reach me: obiagba.mary.ifeoma@gmail.com
 
