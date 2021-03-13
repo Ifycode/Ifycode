@@ -1,8 +1,12 @@
 ## Mary says hello 👋🏽
 
-Hi, I'm Obiagba Mary. Welcome to my GitHub profile page. 
+[<img alt="Code Collabo header image" src="./code-collabo-github.png" />](https://github.com/code-collabo/node-mongo-cli)
 
+Hi, I'm Obiagba Mary. Welcome to my GitHub profile page. I came up with this open source community (a personal project turned community project). Everyone having javascript, node-js and/or mongoDB is welcome to contribute. Join us build awesome, real world, open source projects which will benefit both contributors & users alike. We are currently working on a nodejs CLI. See project readme for more details. 
+
+<!--
 I’m currently working on one my portfolio projects - youser app (using figma + MEAN stack) 👇🏽
+
 
 ![Youser design all pages](./youser-design-sm.png)
 
@@ -25,7 +29,7 @@ I’m currently working on one my portfolio projects - youser app (using figma +
 [<img alt="Express js" height="25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8GuRFF1LFA4NIK63ZV4vweimdCPfnfPL6Ww&usqp=CAU" />]()
 [<img alt="Babel" height="25px" src="https://d33wubrfki0l68.cloudfront.net/7a197cfe44548cc1a3f581152af70a3051e11671/78df8/img/babel.svg" />]()
 [<img alt="Typescript" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />]()
-
+-->
 
 <!--
 | ![Youser app mood board](./youser-moodboard-long.png) | ![Youser app landing page design](./youser-home-design.png) |
