@@ -2,7 +2,9 @@
 
 [<img alt="Code Collabo header image" src="./code-collabo-github.png" />](https://github.com/code-collabo/node-mongo-cli)
 
-Hi, I'm Obiagba Mary. Welcome to my GitHub profile page. I came up with this open source community (a personal project turned community project). Everyone having javascript, node-js and/or mongoDB is welcome to contribute. Join us build awesome, real world, open source projects which will benefit both contributors & users alike. We are currently working on a nodejs CLI. See project readme for more details. 
+Hi, I'm Obiagba Mary. Welcome to my GitHub profile page. I came up with this open source community - a personal project turned community project. Everyone having javascript, nodejs and/or mongoDB in knowledge is welcome to contribute. 
+
+Join us build awesome, real world, open source projects which will benefit both contributors & users alike. The current project we are working on aims to make the work of mongoDB, MERN and MEAN stack developers easier. At the same time, it aims to provide problem solving, open source, internship & remote experience for contributors. [See project readme](https://github.com/code-collabo/node-mongo-cli) for more details. 
 
 <!--
 I’m currently working on one my portfolio projects - youser app (using figma + MEAN stack) 👇🏽
