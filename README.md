@@ -6,6 +6,11 @@ Hi, I'm Obiagba Mary. Welcome to my GitHub profile page. I came up with this ope
 
 Join us build awesome, real world, open source projects which will benefit both contributors & users alike. The current project we are working on aims to make the work of mongoDB, MERN and MEAN stack developers easier. At the same time, it aims to provide problem solving, open source, internship & remote experience for contributors. See [project details & first task](https://github.com/code-collabo/node-mongo-cli/issues/1) and [project readme](https://github.com/code-collabo/node-mongo-cli) for more details. 
 
+[![Anurag's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ifycode&count_private=true&include_all_commits=true&show_icons=true&cache_seconds=1801)](https://github.com/Ifycode)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ifycode&exclude_repo=Ifycode.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/Ifycode)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ifycode&" alt="Ifycode" /></p> 
+
+
 <!--
 I’m currently working on one my portfolio projects - youser app (using figma + MEAN stack) 👇🏽
 
