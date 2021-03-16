@@ -1,6 +1,6 @@
 ## Mary says hello 👋🏽
 
-[<img alt="Code Collabo header image" src="./code-collabo-github.png" />](https://github.com/code-collabo/node-mongo-cli)
+[<img alt="Code Collabo header image" src="./code-collabo-github.png" />](https://github.com/code-collabo)
 
 Hi, I'm Obiagba Mary. Welcome to my GitHub profile page. I came up with this open source community - a personal project turned community project. Everyone having javascript, nodejs and/or mongoDB knowledge is welcome to contribute. 
 
