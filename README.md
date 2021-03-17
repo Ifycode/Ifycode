@@ -5,7 +5,6 @@
 [<img alt="github" height="23px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAOopDwAKdXQ2KNcyL2FIeG1FP0PLjRuK3JA&usqp=CAU" />](https://github.com/Ifycode) [@Ifycode](https://github.com/Ifycode) 
 [<img alt="twitter" height="21px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" />](https://github.com/Ifycode) [@obiagba_mary](https://twitter.com/obiagba_mary?s=09)
 
-
 Hi, I'm Obiagba Mary. Welcome to my GitHub profile page. I came up with this open source community - a personal project turned community project. Everyone having javascript, nodejs and/or mongoDB knowledge is welcome to contribute. 
 
 Join us build awesome, real world, open source projects which will benefit both contributors & users alike. The current project we are working on aims to make the work of mongoDB, MERN and MEAN stack developers easier. At the same time, it aims to promote collaboration, provide problem solving, open source, internship & remote experience for contributors. See [project readme](https://github.com/code-collabo/node-mongo-cli) for more details.
@@ -15,12 +14,12 @@ Join us build awesome, real world, open source projects which will benefit both 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ifycode&" alt="Ifycode" /></p> 
 
 
-
 <!--
 
 [<img alt="github" height="25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAOopDwAKdXQ2KNcyL2FIeG1FP0PLjRuK3JA&usqp=CAU" />](https://github.com/Ifycode) [@Ifycode](https://github.com/Ifycode)\
 [<img alt="twitter" height="25px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" />](https://github.com/Ifycode) [@obiagba_mary](https://twitter.com/obiagba_mary?s=09)
 
+[<img alt="code-collabo" height="21px" src="https://avatars.githubusercontent.com/u/79599588?s=200&v=4" />](https://github.com/Ifycode) [@code-collabo](https://github.com/code-collabo)
 
 I’m currently working on one my portfolio projects - youser app (using figma + MEAN stack) 👇🏽
 
