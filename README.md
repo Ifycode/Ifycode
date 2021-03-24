@@ -5,13 +5,24 @@
 [<img alt="github" height="23px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAOopDwAKdXQ2KNcyL2FIeG1FP0PLjRuK3JA&usqp=CAU" />](https://github.com/Ifycode) [@Ifycode](https://github.com/Ifycode) 
 [<img alt="twitter" height="21px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" />](https://github.com/Ifycode) [@obiagba_mary](https://twitter.com/obiagba_mary?s=09)
 
-Hi, I'm Obiagba Mary. Welcome to my GitHub profile page. I came up with this open source community - a personal project turned community project. Everyone having javascript, nodejs and/or mongoDB knowledge is welcome to contribute. 
+Hi, I'm Obiagba Mary. Welcome to my GitHub profile page. I came up with this open source community - a personal project turned community project. Everyone having knowledge of CSS, LESS preprocessor, javascript, nodejs and/or mongoDB is welcome to contribute to any of our ongoing projects. 
 
-Join us build awesome, real world, open source projects which will benefit both contributors & users alike. The current project we are working on aims to make the work of mongoDB, MERN and MEAN stack developers easier. At the same time, it aims to promote collaboration, provide problem solving, open source, internship & remote experience for contributors. See [project readme](https://github.com/code-collabo/node-mongo-cli) for more details.
+Join us build awesome, real world, open source projects which will benefit both contributors & users alike. The current projects we are working on aims to make the work of frontend, nodejs, mongoDB, MERN and MEAN stack developers easier. At the same time, the aim is to promote collaboration, provide problem solving, open source, internship & remote experience for contributors. 
+
+***Ongoing projects:***
+* [***node-mongo-cli project***](https://github.com/code-collabo/node-mongo-cli) 
+* [***node-mongo-starter-kit project***](https://github.com/code-collabo/node-mongo-starter-kit) 
+* [***less-css-helper-library project***](https://github.com/code-collabo/less-css-helper-library)
 
 [![Anurag's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ifycode&count_private=true&include_all_commits=true&show_icons=true&cache_seconds=1801)](https://github.com/Ifycode)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ifycode&exclude_repo=Ifycode.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/Ifycode)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ifycode&" alt="Ifycode" /></p> 
+
+
+
+<!--
+Join us build awesome, real world, open source projects which will benefit both contributors & users alike. The current project we are working on aims to make the work of mongoDB, MERN and MEAN stack developers easier. At the same time, it aims to promote collaboration, provide problem solving, open source, internship & remote experience for contributors. See [project readme](https://github.com/code-collabo/node-mongo-cli) for more details.
+-->
 
 
 <!--
