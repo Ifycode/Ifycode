@@ -1,4 +1,4 @@
-## Mary says hello <img alt="waving gif" height="25px" src="./wave.gif"/>
+## Mary says hello <img alt="waving png" height="28px" src="./hello-face.png"/>
 
 [<img alt="Code Collabo header image" src="./code-collabo-github.png" />](https://github.com/code-collabo)
 
