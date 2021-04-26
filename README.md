@@ -13,6 +13,7 @@ Join us build awesome, real world, open source projects which will benefit both 
 * [***node-mongo-cli project***](https://github.com/code-collabo/node-mongo-cli) 
 * [***node-mongo-starter-kit project***](https://github.com/code-collabo/node-mongo-starter-kit) 
 * [***less-css-helper-library project***](https://github.com/code-collabo/less-css-helper-library)
+* [***Code collabo docs***](https://code-collabo.gitbook.io/docs/)
 
 <hr/>
 
