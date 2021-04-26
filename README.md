@@ -9,11 +9,15 @@ Hi, I'm Obiagba Mary. Welcome to my github profile page. I came up with this ope
 
 Join us build awesome, real world, open source projects which will benefit both contributors & users alike. The current projects we are working on aims to make the work of frontend, nodejs, mongoDB, MERN and MEAN stack developers easier. At the same time, the aim is to promote collaboration, provide problem solving, open source, internship & remote experience for contributors. 
 
-***Ongoing projects:***
+***Repos for ongoing projects:***
 * [***node-mongo-cli project***](https://github.com/code-collabo/node-mongo-cli) 
 * [***node-mongo-starter-kit project***](https://github.com/code-collabo/node-mongo-starter-kit) 
 * [***less-css-helper-library project***](https://github.com/code-collabo/less-css-helper-library)
-* [***Code collabo docs***](https://code-collabo.gitbook.io/docs/)
+* [***docs (code collabo)***](https://github.com/code-collabo/docs)
+
+<hr/>
+
+***Check out*** [***Code Collabo docs*** on gitbook](https://code-collabo.gitbook.io/docs/) 📖📖📖
 
 <hr/>
 
