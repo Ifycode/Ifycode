@@ -27,7 +27,7 @@ Hi, I'm Obiagba Mary. Welcome to my profile page. I came up with this open sourc
 ***2021 Articles:*** 
 * [***Quick, effective and efficient way to test your separately hosted css library on your client, during development***](https://dev-obiagba.hashnode.dev/quick-effective-and-efficient-way-to-test-your-separately-hosted-css-library-on-your-client-during-development-1)
 * [***While you wait for God's healing...***](https://dev-obiagba.hashnode.dev/while-you-wait-for-gods-healing)
-
+* [***Meet the latest Outreachy and Ushahidi intern***](https://dev-obiagba.hashnode.dev/meet-the-latest-outreachy-and-ushahidi-intern)
 <hr/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ifycode&count_private=true&include_all_commits=true&show_icons=true&cache_seconds=1801)](https://github.com/Ifycode)
