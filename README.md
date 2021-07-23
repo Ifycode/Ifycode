@@ -1,11 +1,19 @@
 ## Mary says hello <img alt="waving png" height="25px" src="./wave-black.png"/>
 
+Hi, I'm Obiagba Mary. Welcome to my profile page. I'm currently an intern at [Ushahidi](https://www.ushahidi.com/) ([Outreaachy](https://www.outreachy.org/) intern), working on the project ***Improve performance on the Ushahidi Platform Client***. You can read about my progress on [ushahidi blog](https://www.ushahidi.com/blog) or on [hashnode](https://dev-obiagba.hashnode.dev/):
+* [Meet the latest outreachy intern | Ushahidi blog](https://www.ushahidi.com/blog/2021/06/13/meet-the-latest-outreachy-and-ushahidi-intern) [| hashnode](https://dev-obiagba.hashnode.dev/meet-the-latest-outreachy-and-ushahidi-intern) 
+* [Everybody Struggles | Ushahidi blog](https://www.ushahidi.com/blog/2021/06/21/everybody-struggles) [| hashnode](https://dev-obiagba.hashnode.dev/everybody-struggles) 
+* [Think about your audience | Ushahidi blog](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience) [| hashnode](https://dev-obiagba.hashnode.dev/think-about-your-audience) 
+* [Modifying expectations | Ushahidi blog](https://www.ushahidi.com/blog/2021/07/11/modifying-expectations) [| hashnode](https://dev-obiagba.hashnode.dev/modifying-expectations) 
+
+## Personal & community project
+
 [<img alt="Code Collabo header image" src="./code-collabo-github.png" />](https://github.com/code-collabo)
 
 [<img alt="github" height="23px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAOopDwAKdXQ2KNcyL2FIeG1FP0PLjRuK3JA&usqp=CAU" />](https://github.com/Ifycode) [@Ifycode](https://github.com/Ifycode) 
 [<img alt="twitter" height="21px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" />](https://github.com/Ifycode) [@obiagba_mary](https://twitter.com/obiagba_mary?s=09)
 
-Hi, I'm Obiagba Mary. Welcome to my profile page. I came up with this open source community - a personal project turned community project. Everyone having knowledge of CSS, LESS preprocessor, javascript, nodejs and/or mongoDB is welcome to contribute to any of our ongoing projects. See [docs](https://code-collabo.gitbook.io/docs/) to learn more about the community and how to contribute to on-going projects.
+I came up with this open source community - a personal project turned community project. Everyone having knowledge of CSS, LESS preprocessor, javascript, nodejs and/or mongoDB is welcome to contribute to any of our ongoing projects. See [docs](https://code-collabo.gitbook.io/docs/) to learn more about the community and how to contribute to on-going projects.
 
 ***Repos for ongoing projects:***
 * [***node-mongo-cli project***](https://github.com/code-collabo/node-mongo-cli) 
