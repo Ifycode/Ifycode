@@ -1,6 +1,6 @@
 ## Mary says hello <img alt="waving png" height="25px" src="./wave-black.png"/>
 
-Hi, I'm Obiagba Mary. Welcome to my profile page. I'm currently an intern at [Ushahidi](https://www.ushahidi.com/) ([Outreachy](https://www.outreachy.org/) intern), working on the project [Improve performance on the Ushahidi Platform Client](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience). Check out [the GitHub project board](https://github.com/ushahidi/platform/projects/17) on the Ushahidi Platform. You can read about my progress on my hashnode blog or on Ushahidi blog:
+Hi, I'm Obiagba Mary. Welcome to my profile page. I'm currently an intern at [Ushahidi](https://www.ushahidi.com/) ([Outreachy](https://www.outreachy.org/) intern), working on the project [Improve performance on the Ushahidi Platform Client](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience). Check out [the GitHub project board](https://github.com/ushahidi/platform/projects/17) on the Ushahidi Platform. You can read about me and my progress on my hashnode blog or on Ushahidi blog:
 * [Meet the latest outreachy intern](https://dev-obiagba.hashnode.dev/meet-the-latest-outreachy-and-ushahidi-intern) • [<kbd>Ushahidi blog</kbd>](https://www.ushahidi.com/blog/2021/06/13/meet-the-latest-outreachy-and-ushahidi-intern)
 * [Everybody struggles](https://dev-obiagba.hashnode.dev/everybody-struggles) • [<kbd>Ushahidi blog</kbd>](https://www.ushahidi.com/blog/2021/06/21/everybody-struggles) 
 * [Think about your audience](https://dev-obiagba.hashnode.dev/think-about-your-audience) • [<kbd>Ushahidi blog</kbd>](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience)
@@ -22,21 +22,18 @@ I came up with this open source community - a personal project turned community 
 * [less-css-helper-library project](https://github.com/code-collabo/less-css-helper-library)
 * [docs (code collabo)](https://github.com/code-collabo/docs)
 
-<hr/>
+***Releases:***
 
-***Check out*** [***Code Collabo docs*** on gitbook](https://code-collabo.gitbook.io/docs/) 📖📖📖
+* [***Code Collabo docs*** on gitbook](https://code-collabo.gitbook.io/docs/) 📖📖📖
+* [***less-css-helper-library v1.0.1*** on npm](https://www.npmjs.com/package/@code-collabo/less-css-helper-library) 🎉🎉🎉
 
-<hr/>
-
-***Check out*** [***less-css-helper-library v1.0.1*** on npm](https://www.npmjs.com/package/@code-collabo/less-css-helper-library) 🎉🎉🎉
-
-<hr/>
-
-***Other (2021) Articles:*** 
+***Blog:***
 * [Quick, effective and efficient way to test your separately hosted css library on your client, during development](https://dev-obiagba.hashnode.dev/quick-effective-and-efficient-way-to-test-your-separately-hosted-css-library-on-your-client-during-development-1)
-* [While you wait for God's healing...](https://dev-obiagba.hashnode.dev/while-you-wait-for-gods-healing)
-<hr/>
 
+## Non-tech posts
+* [While you wait for God's healing...](https://dev-obiagba.hashnode.dev/while-you-wait-for-gods-healing)
+
+## Github stats
 [![Anurag's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ifycode&count_private=true&include_all_commits=true&show_icons=true&cache_seconds=1801)](https://github.com/Ifycode)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ifycode&exclude_repo=Ifycode.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/Ifycode)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ifycode&" alt="Ifycode" /></p> 
