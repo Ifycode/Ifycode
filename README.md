@@ -1,7 +1,7 @@
 ## Mary says hello <img alt="waving png" height="25px" src="./wave-black.png"/>
 
-Hi, I'm Obiagba Mary. Welcome to my profile page. I'm currently an intern at [Ushahidi](https://www.ushahidi.com/) ([Outreachy](https://www.outreachy.org/) intern), working on the project [***Improve performance on the Ushahidi Platform Client***](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience). You can read about my progress on ushahidi blog or on hashnode:
-* [Meet the latest outreachy intern | Ushahidi blog](https://www.ushahidi.com/blog/2021/06/13/meet-the-latest-outreachy-and-ushahidi-intern) [| hashnode](https://dev-obiagba.hashnode.dev/meet-the-latest-outreachy-and-ushahidi-intern) 
+Hi, I'm Obiagba Mary. Welcome to my profile page. I'm currently an intern at [Ushahidi](https://www.ushahidi.com/) ([Outreachy](https://www.outreachy.org/) intern), working on the project [Improve performance on the Ushahidi Platform Client](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience). You can read about my progress on ushahidi blog or on hashnode:
+* Meet the latest outreachy intern • [<kbd>Ushahidi blog</kbd>](https://www.ushahidi.com/blog/2021/06/13/meet-the-latest-outreachy-and-ushahidi-intern) • [<kbd>Hashnode</kbd>](https://dev-obiagba.hashnode.dev/meet-the-latest-outreachy-and-ushahidi-intern) 
 * [Everybody Struggles | Ushahidi blog](https://www.ushahidi.com/blog/2021/06/21/everybody-struggles) [| hashnode](https://dev-obiagba.hashnode.dev/everybody-struggles) 
 * [Think about your audience | Ushahidi blog](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience) [| hashnode](https://dev-obiagba.hashnode.dev/think-about-your-audience) 
 * [Modifying expectations | Ushahidi blog](https://www.ushahidi.com/blog/2021/07/11/modifying-expectations) [| hashnode](https://dev-obiagba.hashnode.dev/modifying-expectations) 
