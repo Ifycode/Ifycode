@@ -16,11 +16,11 @@ Hi, I'm Obiagba Mary. Welcome to my profile page. I'm currently an intern at [Us
 I came up with this open source community - a personal project turned community project. Everyone having knowledge of CSS, LESS preprocessor, javascript, nodejs and/or mongoDB is welcome to contribute to any of our ongoing projects. See [docs](https://code-collabo.gitbook.io/docs/) to learn more about the community and how to contribute to on-going projects.
 
 ***Repos for ongoing projects:***
-* [***node-mongo-cli project***](https://github.com/code-collabo/node-mongo-cli) 
-* [***node-mongo-esm-kit project***](https://github.com/code-collabo/node-mongo-esm-kit) 
-* [***node-mongo-cjs-kit project***](https://github.com/code-collabo/node-mongo-cjs-kit) 
-* [***less-css-helper-library project***](https://github.com/code-collabo/less-css-helper-library)
-* [***docs (code collabo)***](https://github.com/code-collabo/docs)
+* [node-mongo-cli project](https://github.com/code-collabo/node-mongo-cli) 
+* [node-mongo-esm-kit project](https://github.com/code-collabo/node-mongo-esm-kit) 
+* [node-mongo-cjs-kit project](https://github.com/code-collabo/node-mongo-cjs-kit) 
+* [less-css-helper-library project](https://github.com/code-collabo/less-css-helper-library)
+* [docs (code collabo)](https://github.com/code-collabo/docs)
 
 <hr/>
 
