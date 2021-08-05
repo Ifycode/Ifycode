@@ -1,10 +1,8 @@
 ## Mary says hello <img alt="waving png" height="25px" src="./wave-black.png"/>
 
-Hi, I'm Obiagba Mary. Welcome to my profile page. I'm currently an intern at [Ushahidi](https://www.ushahidi.com/) ([Outreachy](https://www.outreachy.org/) intern), working on the project [Improve performance on the Ushahidi Platform Client](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience). Check out [the GitHub project board](https://github.com/ushahidi/platform/projects/17) on the Ushahidi Platform. You can read about me and my progress on my hashnode blog or on Ushahidi blog:
-* [Meet the latest outreachy intern](https://dev-obiagba.hashnode.dev/meet-the-latest-outreachy-and-ushahidi-intern) • [<kbd>Ushahidi blog</kbd>](https://www.ushahidi.com/blog/2021/06/13/meet-the-latest-outreachy-and-ushahidi-intern)
-* [Everybody struggles](https://dev-obiagba.hashnode.dev/everybody-struggles) • [<kbd>Ushahidi blog</kbd>](https://www.ushahidi.com/blog/2021/06/21/everybody-struggles) 
-* [Think about your audience](https://dev-obiagba.hashnode.dev/think-about-your-audience) • [<kbd>Ushahidi blog</kbd>](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience)
-* [Modifying expectations](https://dev-obiagba.hashnode.dev/modifying-expectations) • [<kbd>Ushahidi blog</kbd>](https://www.ushahidi.com/blog/2021/07/11/modifying-expectations)
+Hi, I'm Obiagba Mary. Welcome to my profile page. I'm passionate about and actively contribute to open source software projects and community. I'm a software engineering intern at [Ushahidi](https://www.ushahidi.com/) ([Outreachy](https://www.outreachy.org/) intern), working on the project [Improve performance on the Ushahidi Platform Client](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience). Check out [the GitHub project board](https://github.com/ushahidi/platform/projects/17) on the Ushahidi Platform. You can read about me, the project and my progress on my hashnode blog or on Ushahidi blog: 
+* [Think about your audience - Ushahidi](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience) 
+* [Think about your audience - Hashnode](https://dev-obiagba.hashnode.dev/think-about-your-audience)
 
 ## Personal & community project
 
