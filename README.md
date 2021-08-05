@@ -4,32 +4,21 @@ Hi, I'm Obiagba Mary. Welcome to my profile page. I'm passionate about and activ
 * [Think about your audience - Ushahidi](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience) 
 * [Think about your audience - Hashnode](https://dev-obiagba.hashnode.dev/think-about-your-audience)
 
-## Personal & community project
+## Code Collabo community
 
 [<img alt="Code Collabo header image" src="./code-collabo-github.png" />](https://github.com/code-collabo)
 
 [<img alt="github" height="23px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAOopDwAKdXQ2KNcyL2FIeG1FP0PLjRuK3JA&usqp=CAU" />](https://github.com/Ifycode) [@Ifycode](https://github.com/Ifycode) 
 [<img alt="twitter" height="21px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" />](https://github.com/Ifycode) [@obiagba_mary](https://twitter.com/obiagba_mary?s=09)
 
-I came up with this open source community - a personal project turned community project. Everyone having knowledge of CSS, LESS preprocessor, javascript, nodejs and/or mongoDB is welcome to contribute to any of our ongoing projects. See [docs](https://code-collabo.gitbook.io/docs/) to learn more about the community and how to contribute to on-going projects.
+I came up with this open source community - a personal project turned community project. Everyone having knowledge of CSS, LESS preprocessor, javascript, nodejs and/or mongoDB is welcome to contribute to any of our ongoing projects.
 
-***Repos for ongoing projects:***
-* [node-mongo-cli project](https://github.com/code-collabo/node-mongo-cli) 
-* [node-mongo-esm-kit project](https://github.com/code-collabo/node-mongo-esm-kit) 
-* [node-mongo-cjs-kit project](https://github.com/code-collabo/node-mongo-cjs-kit) 
-* [less-css-helper-library project](https://github.com/code-collabo/less-css-helper-library)
-* [docs (code collabo)](https://github.com/code-collabo/docs)
+***Ongoing projects:*** Find all projects in the [Code collabo Github organisation](https://github.com/code-collabo). See the [documentation guide](https://code-collabo.gitbook.io/docs/) to learn more about the community and how to contribute to on-going projects.
 
 ***Releases:***
 
 * [***Code Collabo docs*** on gitbook](https://code-collabo.gitbook.io/docs/) 📖📖📖
 * [***less-css-helper-library v1.0.1*** on npm](https://www.npmjs.com/package/@code-collabo/less-css-helper-library) 🎉🎉🎉
-
-***Blog:***
-* [Quick, effective and efficient way to test your separately hosted css library on your client, during development](https://dev-obiagba.hashnode.dev/quick-effective-and-efficient-way-to-test-your-separately-hosted-css-library-on-your-client-during-development-1)
-
-## Non-tech posts
-* [While you wait for God's healing...](https://dev-obiagba.hashnode.dev/while-you-wait-for-gods-healing)
 
 ## Github stats
 [![Anurag's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ifycode&count_private=true&include_all_commits=true&show_icons=true&cache_seconds=1801)](https://github.com/Ifycode)
@@ -38,10 +27,18 @@ I came up with this open source community - a personal project turned community 
 
 
 
+
+<!--
+***Blog:***
+* [Quick, effective and efficient way to test your separately hosted css library on your client, during development](https://dev-obiagba.hashnode.dev/quick-effective-and-efficient-way-to-test-your-separately-hosted-css-library-on-your-client-during-development-1)
+
+## Non-tech posts
+* [While you wait for God's healing...](https://dev-obiagba.hashnode.dev/while-you-wait-for-gods-healing)
+-->
+
 <!--
 Join us build awesome, real world, open source projects which will benefit both contributors & users alike. The current project we are working on aims to make the work of mongoDB, MERN and MEAN stack developers easier. At the same time, it aims to promote collaboration, provide problem solving, open source, internship & remote experience for contributors. See [project readme](https://github.com/code-collabo/node-mongo-cli) for more details.
 -->
-
 
 <!--
 
