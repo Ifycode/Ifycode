@@ -12,9 +12,12 @@ Hi, I'm Obiagba Mary. Welcome to my profile page. I'm passionate about and activ
 [<img alt="twitter" height="21px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" />](https://github.com/Ifycode) [@obiagba_mary](https://twitter.com/obiagba_mary?s=09)
 
 I came up with this open source community - a personal project turned community project. Everyone having knowledge of CSS, LESS preprocessor, javascript, nodejs and/or mongoDB is welcome to contribute to any of our ongoing projects. 
+
+***Code Collabo projects:***
+
 Find all projects in the [Code collabo Github organisation](https://github.com/code-collabo). See the [documentation guide](https://code-collabo.gitbook.io/docs/) to learn more about the community and how to contribute to on-going projects.
 
-***Releases:***
+***Code Collabo Releases:***
 
 * [***Less-css helper library v1.0.1*** on npm](https://www.npmjs.com/package/@code-collabo/less-css-helper-library) 🎉🎉🎉
 * [***Code Collabo docs*** on gitbook](https://code-collabo.gitbook.io/docs/) 📖📖📖
