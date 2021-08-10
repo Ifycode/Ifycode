@@ -6,7 +6,7 @@ Hi, I'm Obiagba Mary. Welcome to my profile page. I'm passionate about and activ
 
 ## Code Collabo community
 
-[<img alt="Code Collabo header image" src="./code-collabo-github.png" />](https://github.com/code-collabo)
+![code-collabo-github](https://user-images.githubusercontent.com/45185388/128802205-8efc6e51-c0cb-483f-8605-6995467bff17.png)
 
 [<img alt="github" height="23px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAOopDwAKdXQ2KNcyL2FIeG1FP0PLjRuK3JA&usqp=CAU" />](https://github.com/Ifycode) [@Ifycode](https://github.com/Ifycode) 
 [<img alt="twitter" height="21px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" />](https://github.com/Ifycode) [@obiagba_mary](https://twitter.com/obiagba_mary?s=09)
@@ -31,6 +31,12 @@ Find all projects in the [Code collabo Github organisation](https://github.com/c
 
 
 <!--
+[<img alt="Code Collabo header image" src="./code-collabo-github.png" />](https://github.com/code-collabo)
+![code-collabo-github](https://user-images.githubusercontent.com/45185388/128802117-1a20cadc-e381-4cb2-b351-9bcf9ccbad7a.png)
+![code-collabo-github](https://user-images.githubusercontent.com/45185388/128802130-f56cc623-13bd-420e-a83f-4f772ab80091.png)
+![code-collabo-github](https://user-images.githubusercontent.com/45185388/128802149-5a1ab319-f650-460a-92a6-9b16bfcfdc29.png)
+![code-collabo-github](https://user-images.githubusercontent.com/45185388/128802205-8efc6e51-c0cb-483f-8605-6995467bff17.png)
+
 ***Blog:***
 * [Quick, effective and efficient way to test your separately hosted css library on your client, during development](https://dev-obiagba.hashnode.dev/quick-effective-and-efficient-way-to-test-your-separately-hosted-css-library-on-your-client-during-development-1)
 
