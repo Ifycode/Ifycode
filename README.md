@@ -4,6 +4,11 @@ Hi, I'm Obiagba Mary. Welcome to my profile page. I'm passionate about and activ
 * [Think about your audience - Ushahidi blog](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience) 
 * [Think about your audience - Hashnode blog](https://dev-obiagba.hashnode.dev/think-about-your-audience)
 
+<!--
+## Ushahidi community
+![Ushahidi](https://user-images.githubusercontent.com/45185388/131233572-e39aa50c-3a69-4108-9f23-8244b5e52496.png)
+-->
+
 ## Code Collabo community
 
 ![code-collabo-github](https://user-images.githubusercontent.com/45185388/128802205-8efc6e51-c0cb-483f-8605-6995467bff17.png)
