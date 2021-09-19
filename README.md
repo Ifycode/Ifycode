@@ -1,6 +1,6 @@
 ## Mary says hello <img alt="waving png" height="25px" src="./wave-black.png"/>
 
-Hi, I'm Obiagba Mary. Welcome to my profile page. I'm passionate about and actively contribute to open source software projects and community. I'm a software engineering intern at [Ushahidi](https://www.ushahidi.com/) ([Outreachy](https://www.outreachy.org/) intern), working on the project [Improve performance on the Ushahidi Platform Client](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience). Check out [the GitHub project board](https://github.com/ushahidi/platform/projects/17) on the Ushahidi Platform. You can read about me, the project and my progress on my hashnode blog or on Ushahidi blog: 
+Hi, I'm Obiagba Mary. Welcome to my profile page. I'm passionate about and actively contribute to open source software projects and community. Read about my work at [Ushahidi](https://www.ushahidi.com/) during [Outreachy](https://www.outreachy.org/)'s May - August 2021 cohort, where I worked on the [Improve performance on the Ushahidi Platform Client](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience) project. Check out [the GitHub project board](https://github.com/ushahidi/platform/projects/17) on the Ushahidi Platform. You can read about it on my hashnode blog or on Ushahidi blog: 
 * [Think about your audience - Ushahidi blog](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience) 
 * [Think about your audience - Hashnode blog](https://dev-obiagba.hashnode.dev/think-about-your-audience)
 
