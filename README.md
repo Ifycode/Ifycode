@@ -1,31 +1,25 @@
 ## Mary says hello <img alt="waving png" height="25px" src="./wave-black.png"/>
-
-Hi, I'm Obiagba Mary. Welcome to my profile page. I'm passionate about and actively contribute to open source software projects and community. Read about my work at [Ushahidi](https://www.ushahidi.com/) during [Outreachy](https://www.outreachy.org/)'s May - August 2021 cohort, where I worked on the [Improve performance on the Ushahidi Platform Client](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience) project. Check out [the GitHub project board](https://github.com/ushahidi/platform/projects/17) on the Ushahidi Platform. You can read about it on my hashnode blog or on Ushahidi blog: 
-* [Think about your audience - Ushahidi blog](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience) 
-* [Think about your audience - Hashnode blog](https://dev-obiagba.hashnode.dev/think-about-your-audience)
-
-<!--
-## Ushahidi community
-![Ushahidi](https://user-images.githubusercontent.com/45185388/131233572-e39aa50c-3a69-4108-9f23-8244b5e52496.png)
--->
+Hi, I'm Obiagba Mary. Welcome to my profile page. I'm a software engineer and technical writer, who is passionate about and actively contribute to open source software projects and community. I'm currently open to work. Check out open source communities I've contributed to and some of the projects I have worked on below.
 
 ## Code Collabo community
 
-![code-collabo-github](https://user-images.githubusercontent.com/45185388/128802205-8efc6e51-c0cb-483f-8605-6995467bff17.png)
+![node-mongo](https://github.com/Ifycode/Ifycode/blob/main/code-collabo/node-mongo-cli.gif?raw=true)
 
-[<img alt="github" height="23px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAOopDwAKdXQ2KNcyL2FIeG1FP0PLjRuK3JA&usqp=CAU" />](https://github.com/Ifycode) [@Ifycode](https://github.com/Ifycode) 
-[<img alt="twitter" height="21px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" />](https://github.com/Ifycode) [@obiagba_mary](https://twitter.com/obiagba_mary?s=09)
+I came up with this open source community in February 2021 - a personal project turned community project. Everyone having knowledge of CSS, LESS preprocessor, javascript, nodejs and/or mongoDB is welcome to contribute to any of our ongoing projects. Find all projects in the [code collabo Github organisation](https://github.com/code-collabo). See the [documentation guide](https://code-collabo.gitbook.io/doc/) to learn more about the community and how to contribute to on-going projects. Checkout some released projects:
+- [@code-collabo/node-mongo-cli](https://www.npmjs.com/package/@code-collabo/node-mongo-cli) 🥳
+- [@code-collabo/less-css-helper-library](https://www.npmjs.com/package/@code-collabo/less-css-helper-library) 🥳
+- [code-collabo documentation guide](https://code-collabo.gitbook.io/doc/) 📖
+- [node-mongo documentation guide](https://code-collabo.gitbook.io/node-mongo/) 📖
 
-I came up with this open source community - a personal project turned community project. Everyone having knowledge of CSS, LESS preprocessor, javascript, nodejs and/or mongoDB is welcome to contribute to any of our ongoing projects. 
 
-***Code Collabo projects:***
+## Ushahidi community
+Read about my work at [Ushahidi](https://www.ushahidi.com/) during [Outreachy](https://www.outreachy.org/)'s May - August 2021 cohort, where I worked on the [Improve performance on the Ushahidi Platform Client](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience) project - hashnode version of the article [here](https://dev-obiagba.hashnode.dev/think-about-your-audience). Check out [the GitHub project board](https://github.com/ushahidi/platform/projects/17) on the Ushahidi Platform. You can also check out my [Outreachy internship wrap-up article](https://www.ushahidi.com/blog/2021/08/30/outreachy-internship-wrap-up) on the ushahidi blog - hashnode version of the article [here](https://dev-obiagba.hashnode.dev/outreachy-internship-wrap-up).
 
-Find all projects in the [Code collabo Github organisation](https://github.com/code-collabo). See the [documentation guide](https://code-collabo.gitbook.io/docs/) to learn more about the community and how to contribute to on-going projects.
+## GADS scholarship program
 
-***Code Collabo Releases:***
+[![solvejs-youtube-thumbnail](https://user-images.githubusercontent.com/45185388/132788307-e6278368-6af7-42a6-8bd1-d91b6d452cf9.png)](https://www.youtube.com/watch?v=KBv1IURk5D0)
 
-* [***Less-css helper library v1.0.1*** on npm](https://www.npmjs.com/package/@code-collabo/less-css-helper-library) 🎉🎉🎉
-* [***Code Collabo docs*** on gitbook](https://code-collabo.gitbook.io/docs/) 📖📖📖
+As a mobile web specialist mentor at the Google Africa Developer Scholarship program, I built some open source projects for and/or alongside mentees assigned to me. Check the out: the [solve js single page application](https://github.com/gads-projects/solve-js) (built without any framework) containing javascript tasks, and the [GADS gallery and documentation project](https://obiagba-mary.gitbook.io/gads-projects/) to expose mentors and mentees to open source contribution and the github web interface.
 
 ## Github stats
 [![Anurag's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ifycode&count_private=true&include_all_commits=true&show_icons=true&cache_seconds=1801)](https://github.com/Ifycode)
@@ -34,6 +28,19 @@ Find all projects in the [Code collabo Github organisation](https://github.com/c
 
 
 
+
+
+
+
+
+
+
+
+
+<!--
+## Ushahidi community
+![Ushahidi](https://user-images.githubusercontent.com/45185388/131233572-e39aa50c-3a69-4108-9f23-8244b5e52496.png)
+-->
 
 <!--
 [<img alt="Code Collabo header image" src="./code-collabo-github.png" />](https://github.com/code-collabo)
