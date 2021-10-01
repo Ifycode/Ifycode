@@ -5,21 +5,33 @@ Hi, I'm Obiagba Mary. Welcome to my profile page. I'm a software engineer and te
 
 ![node-mongo](https://github.com/Ifycode/Ifycode/blob/main/code-collabo/node-mongo-cli.gif?raw=true)
 
-I came up with this open source community - a personal project turned community project. Everyone having knowledge of CSS, LESS preprocessor, javascript, nodejs and/or mongoDB is welcome to contribute to any of our ongoing projects. Find all projects in the [Code collabo Github organisation](https://github.com/code-collabo). See the [documentation guide](https://code-collabo.gitbook.io/doc/) to learn more about the community and how to contribute to on-going projects. 
+I came up with this open source community - a personal project turned community project. Everyone having knowledge of CSS, LESS preprocessor, javascript, nodejs and/or mongoDB is welcome to contribute to any of our ongoing projects. Find all projects in the [code collabo Github organisation](https://github.com/code-collabo). See the [documentation guide](https://code-collabo.gitbook.io/doc/) to learn more about the community and how to contribute to on-going projects. Checkout some released projects:
+- [@code-collabo/node-mongo-cli](https://www.npmjs.com/package/@code-collabo/node-mongo-cli) 🥳
+- [@code-collabo/less-css-helper-library](https://www.npmjs.com/package/@code-collabo/less-css-helper-library) 🥳
+- [code-collabo documentation guide](https://code-collabo.gitbook.io/doc/) 📖
+- [node-mongo documentation guide](https://code-collabo.gitbook.io/node-mongo/) 📖
+
 
 ## Ushahidi community
 Read about my work at [Ushahidi](https://www.ushahidi.com/) during [Outreachy](https://www.outreachy.org/)'s May - August 2021 cohort, where I worked on the [Improve performance on the Ushahidi Platform Client](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience) project - hashnode version of the article [here](https://dev-obiagba.hashnode.dev/think-about-your-audience). Check out [the GitHub project board](https://github.com/ushahidi/platform/projects/17) on the Ushahidi Platform. You can also check out my [Outreachy internship wrap-up article](https://www.ushahidi.com/blog/2021/08/30/outreachy-internship-wrap-up) on the ushahidi blog - hashnode version of the article [here](https://dev-obiagba.hashnode.dev/outreachy-internship-wrap-up).
 
+## GADS scholarship program
 
-***Code Collabo Releases:***
-
-* [***Less-css helper library v1.0.1*** on npm](https://www.npmjs.com/package/@code-collabo/less-css-helper-library) 🎉🎉🎉
-* [***Code Collabo docs*** on gitbook](https://code-collabo.gitbook.io/docs/) 📖📖📖
 
 ## Github stats
 [![Anurag's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ifycode&count_private=true&include_all_commits=true&show_icons=true&cache_seconds=1801)](https://github.com/Ifycode)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ifycode&exclude_repo=Ifycode.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/Ifycode)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ifycode&" alt="Ifycode" /></p> 
+
+
+
+
+
+
+
+
+
+
 
 
 <!--
