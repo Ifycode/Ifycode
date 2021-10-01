@@ -19,7 +19,7 @@ Read about my work at [Ushahidi](https://www.ushahidi.com/) during [Outreachy](h
 
 [![solvejs-youtube-thumbnail](https://user-images.githubusercontent.com/45185388/132788307-e6278368-6af7-42a6-8bd1-d91b6d452cf9.png)](https://www.youtube.com/watch?v=KBv1IURk5D0)
 
-As a mobile web specialist mentor at the Google Africa Developer Scholarship program, I built some open source projects for and/or alongside mentees assigned to me. Check the out: the [solve js single page application](https://github.com/gads-projects/solve-js) (built without any framework) containing javascript tasks, and the [GADS gallery and documentation project](https://obiagba-mary.gitbook.io/gads-projects/) to expose mentors and mentees to open source contribution and the github web interface.
+As a mobile web specialist mentor at the Google Africa Developer Scholarship program, I built some open source projects for and/or alongside mentees assigned to me. Check the out: the [solve js single page application](https://github.com/gads-projects/solve-js) (built without any framework) containing javascript tasks with command-line git exercises, and the [GADS gallery and documentation project](https://obiagba-mary.gitbook.io/gads-projects/) to expose mentors and mentees to open source contribution and the github web interface.
 
 ## Github stats
 [![Anurag's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ifycode&count_private=true&include_all_commits=true&show_icons=true&cache_seconds=1801)](https://github.com/Ifycode)
