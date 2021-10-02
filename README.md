@@ -1,5 +1,5 @@
 ## Mary says hello <img alt="waving png" height="25px" src="./wave-black.png"/>
-Hi, I'm Obiagba Mary. Welcome to my profile page. I'm a software engineer and technical writer, who is passionate about and actively contribute to open source software projects and community. I'm currently open to work. Check out open source communities I've contributed to and some of the projects I have worked on below.
+Hi, I'm Obiagba Mary from Nigeria. Welcome to my profile page. I'm a software engineer and technical writer, who is passionate about and actively contribute to open source software projects and community. I'm currently open to work. Check out open source communities I've contributed to and some of the projects I have worked on below.
 
 ## Code Collabo community
 
