@@ -5,7 +5,7 @@ Hi, I'm Obiagba Mary from Nigeria. Welcome to my profile page. I'm a software en
 
 ![node-mongo](https://github.com/Ifycode/Ifycode/blob/main/code-collabo/node-mongo-cli.gif?raw=true)
 
-I came up with this open source community in February 2021 - a personal project turned community project. Everyone having knowledge of CSS, SCSS and/or LESS preprocessors, javascript, nodejs and/or mongoDB is welcome to contribute to any of our ongoing projects. Find all projects in the [code collabo Github organisation](https://github.com/code-collabo). See the [documentation guide](https://code-collabo.gitbook.io/doc/) to learn more about the community and how to contribute to on-going projects. Checkout some released projects:
+I founded the Code Collabo Free and Open Source Software community in February 2021 - a personal project turned community project. Everyone having knowledge of CSS, SCSS and/or LESS preprocessors, javascript, nodejs and/or mongoDB is welcome to contribute to any of our ongoing projects. Find all projects in the [code collabo Github organisation](https://github.com/code-collabo). See the [documentation guide](https://code-collabo.gitbook.io/doc/) to learn more about the community and how to contribute to on-going projects. Checkout some released projects:
 - [@code-collabo/node-mongo-cli](https://www.npmjs.com/package/@code-collabo/node-mongo-cli) 🥳
 - [@code-collabo/less-css-helper-library](https://www.npmjs.com/package/@code-collabo/less-css-helper-library) 🥳
 - [code-collabo documentation guide](https://code-collabo.gitbook.io/doc/) 📖
