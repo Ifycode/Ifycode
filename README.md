@@ -1,11 +1,15 @@
 ## Mary says hello <img alt="waving png" height="25px" src="./wave-black.png"/>
-Hi, I'm Obiagba Mary from Nigeria. Welcome to my profile page. I'm a software engineer and technical writer, who is passionate about and actively contribute to open source software projects and community. I'm currently open to work. Check out open source communities I've contributed to and some of the projects I have worked on below.
+Hi, I'm Obiagba Mary from Nigeria. Welcome to my profile page. I'm a software engineer and technical writer, who is passionate about and actively contribute to open source software projects and community. I'm currently open to work. Check out some projects I've made and open source communities I've contributed to below.
+
+| [![node-mongo](https://github.com/Ifycode/Ifycode/blob/main/code-collabo/node-mongo-cli.gif?raw=true)](https://code-collabo.gitbook.io/node-mongo/) [node-mongo CLI](https://code-collabo.gitbook.io/node-mongo/)| [![youser-brand](https://user-images.githubusercontent.com/45185388/137293346-256f2117-25df-45b7-af5d-360ebc95c023.png)](https://www.behance.net/gallery/113409717/Youser-App) [youser app design](https://www.behance.net/gallery/113409717/Youser-App)|
+|--|--|
+
+|[![solvejs-filter](https://user-images.githubusercontent.com/45185388/137291640-8d229177-cd84-401b-9bf7-9421bcb9db30.gif)](https://github.com/gads-projects/solve-js) [solve-js spa](https://github.com/gads-projects/solve-js) | [![temporary-library-img](https://user-images.githubusercontent.com/45185388/137257011-b0b9808f-61af-457c-8856-1bcd5a95cfb5.png)](https://github.com/code-collabo/scss-helper-library) [scss-helper-library](https://github.com/code-collabo/scss-helper-library)|
+|--|--|
 
 ## Code Collabo community
-
-![node-mongo](https://github.com/Ifycode/Ifycode/blob/main/code-collabo/node-mongo-cli.gif?raw=true)
-
-I founded the Code Collabo Free and Open Source Software community in February 2021 - a personal project turned community project. Everyone having knowledge of CSS, SCSS and/or LESS preprocessors, javascript, nodejs and/or mongoDB is welcome to contribute to any of our ongoing projects. Find all projects in the [code collabo Github organisation](https://github.com/code-collabo). See the [documentation guide](https://code-collabo.gitbook.io/doc/) to learn more about the community and how to contribute to on-going projects. Checkout some released projects:
+Founded [Code Collabo](https://github.com/code-collabo) in February 2021, a Free and Open Source Software community with awesome collaboration projects to provide support and open source experience. Everyone having knowledge of CSS, SCSS and/or LESS preprocessors, javascript, nodejs and/or mongoDB is welcome to contribute to collabo projects. See the [documentation guide](https://code-collabo.gitbook.io/doc/) to learn more about the community and how to contribute to on-going projects.
+Checkout some released projects:
 - [@code-collabo/node-mongo-cli](https://www.npmjs.com/package/@code-collabo/node-mongo-cli) 🥳
 - [@code-collabo/less-css-helper-library](https://www.npmjs.com/package/@code-collabo/less-css-helper-library) 🥳
 - [code-collabo documentation guide](https://code-collabo.gitbook.io/doc/) 📖
@@ -19,7 +23,7 @@ Read about my work at [Ushahidi](https://www.ushahidi.com/) during [Outreachy](h
 
 [![solvejs-youtube-thumbnail](https://user-images.githubusercontent.com/45185388/132788307-e6278368-6af7-42a6-8bd1-d91b6d452cf9.png)](https://www.youtube.com/watch?v=KBv1IURk5D0)
 
-As a mobile web specialist mentor at the Google Africa Developer Scholarship program, I built some open source projects for and/or alongside mentees assigned to me. Check the out: the [solve js single page application](https://github.com/gads-projects/solve-js) (built without any framework) containing javascript tasks with command-line git exercises, and the [GADS gallery and documentation project](https://obiagba-mary.gitbook.io/gads-projects/) to expose mentors and mentees to open source contribution and the github web interface.
+Volunteering as a mobile web specialist mentor at the Google Africa Developer Scholarship program has been awesome. Built some open source projects for and/or alongside mentees assigned to me. Check the out: the [solve js single page application](https://github.com/gads-projects/solve-js) (built without any framework) containing javascript tasks with command-line git exercises, and the [GADS gallery and documentation project](https://obiagba-mary.gitbook.io/gads-projects/) to expose mentors and mentees to open source contribution and the github web interface.
 
 ## Github stats
 [![Anurag's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ifycode&count_private=true&include_all_commits=true&show_icons=true&cache_seconds=1801)](https://github.com/Ifycode)
