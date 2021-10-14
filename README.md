@@ -1,10 +1,12 @@
 ## Mary says hello <img alt="waving png" height="25px" src="./wave-black.png"/>
 Hi, I'm Obiagba Mary from Nigeria. Welcome to my profile page. I'm a software engineer and technical writer, who is passionate about and actively contribute to open source software projects and community. I'm currently open to work. Check out some projects I've made and open source communities I've contributed to below.
 
-| [![node-mongo](https://github.com/Ifycode/Ifycode/blob/main/code-collabo/node-mongo-cli.gif?raw=true)](https://code-collabo.gitbook.io/node-mongo/) [node-mongo CLI](https://code-collabo.gitbook.io/node-mongo/)| [![youser-brand](https://user-images.githubusercontent.com/45185388/137293346-256f2117-25df-45b7-af5d-360ebc95c023.png)](https://www.behance.net/gallery/113409717/Youser-App) [youser app design](https://www.behance.net/gallery/113409717/Youser-App)|
+| [![node-mongo](https://github.com/Ifycode/Ifycode/blob/main/code-collabo/node-mongo-cli.gif?raw=true)](https://code-collabo.gitbook.io/node-mongo/) [node-mongo CLI](https://code-collabo.gitbook.io/node-mongo/)| [![solvejs-filter](https://user-images.githubusercontent.com/45185388/137291640-8d229177-cd84-401b-9bf7-9421bcb9db30.gif)](https://github.com/gads-projects/solve-js) [solve-js spa](https://github.com/gads-projects/solve-js)|
 |--|--|
 
-|[![solvejs-filter](https://user-images.githubusercontent.com/45185388/137291640-8d229177-cd84-401b-9bf7-9421bcb9db30.gif)](https://github.com/gads-projects/solve-js) [solve-js spa](https://github.com/gads-projects/solve-js) | [![temporary-library-img](https://user-images.githubusercontent.com/45185388/137257011-b0b9808f-61af-457c-8856-1bcd5a95cfb5.png)](https://github.com/code-collabo/scss-helper-library) [scss-helper-library](https://github.com/code-collabo/scss-helper-library)|
+
+
+| [![temporary-library-img](https://user-images.githubusercontent.com/45185388/137257011-b0b9808f-61af-457c-8856-1bcd5a95cfb5.png)](https://github.com/code-collabo/scss-helper-library) [scss-helper-library](https://github.com/code-collabo/scss-helper-library)| [![youser-brand](https://user-images.githubusercontent.com/45185388/137293346-256f2117-25df-45b7-af5d-360ebc95c023.png)](https://www.behance.net/gallery/113409717/Youser-App) [youser app design](https://www.behance.net/gallery/113409717/Youser-App) |
 |--|--|
 
 ## Code Collabo community
