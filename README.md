@@ -29,7 +29,8 @@ Read about my work at [Ushahidi](https://www.ushahidi.com/) during [Outreachy](h
 
 ## GADS scholarship program
 
-[![solvejs-youtube-thumbnail](https://user-images.githubusercontent.com/45185388/132788307-e6278368-6af7-42a6-8bd1-d91b6d452cf9.png)](https://www.youtube.com/watch?v=KBv1IURk5D0)
+|[![gads-project-gallery-doc](https://user-images.githubusercontent.com/45185388/137307432-edb89ca1-f916-4ab4-921f-799333c4d74f.png)](https://obiagba-mary.gitbook.io/gads-projects/contribution-guide/video-tutorials)| [![solvejs-youtube-thumbnail](https://user-images.githubusercontent.com/45185388/137259185-c2461dc6-97c3-49e6-b1d2-99de6b5342b8.gif)](https://www.youtube.com/watch?v=KBv1IURk5D0)|
+|--|--|
 
 Volunteering as a mobile web specialist mentor at the Google Africa Developer Scholarship program has been awesome. Built some open source projects for and/or alongside mentees assigned to me. Check the out: the [solve js single page application](https://github.com/gads-projects/solve-js) (built without any framework) containing javascript tasks with command-line git exercises, and the [GADS gallery and documentation project](https://obiagba-mary.gitbook.io/gads-projects/) to expose mentors and mentees to open source contribution and the github web interface.
 
@@ -37,11 +38,6 @@ Volunteering as a mobile web specialist mentor at the Google Africa Developer Sc
 [![Anurag's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ifycode&count_private=true&include_all_commits=true&show_icons=true&cache_seconds=1801)](https://github.com/Ifycode)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ifycode&exclude_repo=Ifycode.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/Ifycode)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ifycode&" alt="Ifycode" /></p> 
-
-
-
-
-
 
 
 
