@@ -1,5 +1,5 @@
 ## Mary says hello <img alt="waving png" height="25px" src="./wave-black.png"/>
-Hi, I'm Obiagba Mary from Nigeria. Welcome to my profile page. I'm a software engineer and technical writer, who is passionate about and actively contribute to open source software projects and community. 
+Hi, I'm Obiagba Mary from Nigeria. Welcome to my profile page. I'm a software engineer and technical writer, passionate about and actively contribute to open source software projects and community. 
 
 ## Code Collabo community
 
@@ -16,7 +16,7 @@ Read about my work at [Ushahidi](https://www.ushahidi.com/) during [Outreachy](h
 |[![gads-project-gallery-gitbook](https://user-images.githubusercontent.com/45185388/137307432-edb89ca1-f916-4ab4-921f-799333c4d74f.png)](https://obiagba-mary.gitbook.io/gads-projects/contribution-guide/video-tutorials)| [![solvejs-github-repo](https://user-images.githubusercontent.com/45185388/137259185-c2461dc6-97c3-49e6-b1d2-99de6b5342b8.gif)](https://github.com/gads-projects/solve-js)|
 |--|--|
 
-Volunteering as a mobile web specialist mentor at the Google Africa Developer Scholarship program has been awesome. Spend time assisting and building projects for and/or alongside mentees assigned to me 😃
+Mobile web specialist mentor at the Google Africa Developer Scholarship program - I enjoy assisting and building projects for and/or alongside mentees assigned to me 😃
 
 ## Github stats
 [![Anurag's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ifycode&count_private=true&include_all_commits=true&show_icons=true&cache_seconds=1801)](https://github.com/Ifycode)
