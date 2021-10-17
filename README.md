@@ -1,15 +1,34 @@
 ## Mary says hello <img alt="waving png" height="25px" src="./wave-black.png"/>
-Hi, I'm Obiagba Mary from Nigeria. Welcome to my profile page. I'm a software engineer and technical writer, who is passionate about and actively contribute to open source software projects and community. I'm currently open to work. Check out some projects I've made and open source communities I've contributed to below.
+Hi, I'm Obiagba Mary from Nigeria. Welcome to my profile page. I'm a software engineer and technical writer, who is passionate about and actively contribute to open source software projects and community. I'm currently open to work. Check out open source communities I've contributed to and some of my projects below.
+
+## Code Collabo community
+
+| [![node-mongo](https://github.com/Ifycode/Ifycode/blob/main/code-collabo/node-mongo-cli.gif?raw=true)](https://code-collabo.gitbook.io/node-mongo/)| [![temporary-library-img](https://user-images.githubusercontent.com/45185388/137257011-b0b9808f-61af-457c-8856-1bcd5a95cfb5.png)](https://github.com/code-collabo/scss-helper-library)|
+|--|--|
+
+Founded [Code Collabo](https://github.com/code-collabo) in February 2021, a Free and Open Source Software community with awesome collaboration projects to provide support and open source experience. 
+
+## Ushahidi community
+Read about my work at [Ushahidi](https://www.ushahidi.com/) during [Outreachy](https://www.outreachy.org/)'s May - August 2021 cohort, where I worked on the [Improve performance on the Ushahidi Platform Client](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience) project - hashnode version of the article [here](https://dev-obiagba.hashnode.dev/think-about-your-audience). 
+
+## GADS scholarship program
+
+|[![gads-project-gallery-doc](https://user-images.githubusercontent.com/45185388/137307432-edb89ca1-f916-4ab4-921f-799333c4d74f.png)](https://obiagba-mary.gitbook.io/gads-projects/contribution-guide/video-tutorials)| [![solvejs-youtube-thumbnail](https://user-images.githubusercontent.com/45185388/137259185-c2461dc6-97c3-49e6-b1d2-99de6b5342b8.gif)](https://www.youtube.com/watch?v=KBv1IURk5D0)|
+|--|--|
+
+Volunteering as a mobile web specialist mentor at the Google Africa Developer Scholarship program has been awesome. Built some open source projects (images above are links) for and/or alongside mentees assigned to me. 
+
+## Github stats
+[![Anurag's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ifycode&count_private=true&include_all_commits=true&show_icons=true&cache_seconds=1801)](https://github.com/Ifycode)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ifycode&exclude_repo=Ifycode.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/Ifycode)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ifycode&" alt="Ifycode" /></p> 
+
+
+
 
 <!--
-| [![node-mongo](https://github.com/Ifycode/Ifycode/blob/main/code-collabo/node-mongo-cli.gif?raw=true)](https://code-collabo.gitbook.io/node-mongo/) [node-mongo CLI](https://code-collabo.gitbook.io/node-mongo/)| [![solvejs-filter](https://user-images.githubusercontent.com/45185388/137291640-8d229177-cd84-401b-9bf7-9421bcb9db30.gif)](https://github.com/gads-projects/solve-js) [solve-js spa](https://github.com/gads-projects/solve-js)|
-|--|--|
-
-
-
-| [![temporary-library-img](https://user-images.githubusercontent.com/45185388/137257011-b0b9808f-61af-457c-8856-1bcd5a95cfb5.png)](https://github.com/code-collabo/scss-helper-library) [scss-helper-library](https://github.com/code-collabo/scss-helper-library)| [![youser-brand](https://user-images.githubusercontent.com/45185388/137293346-256f2117-25df-45b7-af5d-360ebc95c023.png)](https://www.behance.net/gallery/113409717/Youser-App) [youser app design](https://www.behance.net/gallery/113409717/Youser-App) |
-|--|--|
--->
+## Mary says hello <img alt="waving png" height="25px" src="./wave-black.png"/>
+Hi, I'm Obiagba Mary from Nigeria. Welcome to my profile page. I'm a software engineer and technical writer, who is passionate about and actively contribute to open source software projects and community. I'm currently open to work. Check out some projects I've made and open source communities I've contributed to below.
 
 ## Code Collabo community
 
@@ -22,7 +41,6 @@ Checkout some released projects:
 - [@code-collabo/less-css-helper-library](https://www.npmjs.com/package/@code-collabo/less-css-helper-library) 🥳
 - [code-collabo documentation guide](https://code-collabo.gitbook.io/doc/) 📖
 - [node-mongo documentation guide](https://code-collabo.gitbook.io/node-mongo/) 📖
-
 
 ## Ushahidi community
 Read about my work at [Ushahidi](https://www.ushahidi.com/) during [Outreachy](https://www.outreachy.org/)'s May - August 2021 cohort, where I worked on the [Improve performance on the Ushahidi Platform Client](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience) project - hashnode version of the article [here](https://dev-obiagba.hashnode.dev/think-about-your-audience). Check out [the GitHub project board](https://github.com/ushahidi/platform/projects/17) on the Ushahidi Platform. You can also check out my [Outreachy internship wrap-up article](https://www.ushahidi.com/blog/2021/08/30/outreachy-internship-wrap-up) on the ushahidi blog - hashnode version of the article [here](https://dev-obiagba.hashnode.dev/outreachy-internship-wrap-up).
@@ -39,9 +57,21 @@ Volunteering as a mobile web specialist mentor at the Google Africa Developer Sc
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ifycode&exclude_repo=Ifycode.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/Ifycode)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ifycode&" alt="Ifycode" /></p> 
 
+-->
 
 
 
+
+
+<!--
+| [![node-mongo](https://github.com/Ifycode/Ifycode/blob/main/code-collabo/node-mongo-cli.gif?raw=true)](https://code-collabo.gitbook.io/node-mongo/) [node-mongo CLI](https://code-collabo.gitbook.io/node-mongo/)| [![solvejs-filter](https://user-images.githubusercontent.com/45185388/137291640-8d229177-cd84-401b-9bf7-9421bcb9db30.gif)](https://github.com/gads-projects/solve-js) [solve-js spa](https://github.com/gads-projects/solve-js)|
+|--|--|
+
+
+
+| [![temporary-library-img](https://user-images.githubusercontent.com/45185388/137257011-b0b9808f-61af-457c-8856-1bcd5a95cfb5.png)](https://github.com/code-collabo/scss-helper-library) [scss-helper-library](https://github.com/code-collabo/scss-helper-library)| [![youser-brand](https://user-images.githubusercontent.com/45185388/137293346-256f2117-25df-45b7-af5d-360ebc95c023.png)](https://www.behance.net/gallery/113409717/Youser-App) [youser app design](https://www.behance.net/gallery/113409717/Youser-App) |
+|--|--|
+-->
 
 
 
