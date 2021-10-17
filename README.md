@@ -18,6 +18,9 @@ Read about my work at [Ushahidi](https://www.ushahidi.com/) during [Outreachy](h
 
 Mobile web specialist mentor at the Google Africa Developer Scholarship program - I enjoy assisting and building projects for and/or alongside mentees assigned to me 😃
 
+## Blogging and social media
+I love to write about my experiences on my personal [dev-obiagba.hashnode.dev](https://dev-obiagba.hashnode.dev/) blog. I am [@Ifycode](https://github.com/Ifycode) on github, [@obiagba_mary](https://twitter.com/obiagba_mary) on twitter and you can find me on linkedIn with the name [Mary Obiagba](https://www.linkedin.com/in/mary-obiagba-b7a2491a6/).
+
 ## Github stats
 [![Anurag's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ifycode&count_private=true&include_all_commits=true&show_icons=true&cache_seconds=1801)](https://github.com/Ifycode)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ifycode&exclude_repo=Ifycode.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/Ifycode)
