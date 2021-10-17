@@ -6,10 +6,10 @@ Hi, I'm Obiagba Mary from Nigeria. Welcome to my profile page. I'm a software en
 | [![node-mongo](https://github.com/Ifycode/Ifycode/blob/main/code-collabo/node-mongo-cli.gif?raw=true)](https://code-collabo.gitbook.io/node-mongo/)| [![temporary-library-img](https://user-images.githubusercontent.com/45185388/137257011-b0b9808f-61af-457c-8856-1bcd5a95cfb5.png)](https://github.com/code-collabo/scss-helper-library)|
 |--|--|
 
-Founded [Code Collabo](https://github.com/code-collabo) in February 2021, a Free and Open Source Software community with awesome collaboration projects to provide support and open source experience. 
+Founded [Code Collabo](https://github.com/code-collabo) in February 2021, a Free and Open Source Software community with awesome collaboration projects to provide support and open source experience 🙋‍♀️
 
 ## Ushahidi community
-Read about my work at [Ushahidi](https://www.ushahidi.com/) during [Outreachy](https://www.outreachy.org/)'s May - August 2021 cohort, where I worked on the [Improve performance on the Ushahidi Platform Client](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience) project - hashnode version of the article [here](https://dev-obiagba.hashnode.dev/think-about-your-audience). 
+Read about my work at [Ushahidi](https://www.ushahidi.com/) during [Outreachy](https://www.outreachy.org/)'s May - August 2021 cohort, where I worked on the [Improve performance on the Ushahidi Platform Client](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience) project 🤓 <!-- - hashnode version of the article [here](https://dev-obiagba.hashnode.dev/think-about-your-audience).-->
 
 ## GADS scholarship program
 
@@ -19,7 +19,7 @@ Read about my work at [Ushahidi](https://www.ushahidi.com/) during [Outreachy](h
 Mobile web specialist mentor at the Google Africa Developer Scholarship program - I enjoy assisting and building projects for and/or alongside mentees assigned to me 😃
 
 ## Blogging and social media
-I love to write about my experiences on my personal [dev-obiagba.hashnode.dev](https://dev-obiagba.hashnode.dev/) blog. I am [@Ifycode](https://github.com/Ifycode) on github, [@obiagba_mary](https://twitter.com/obiagba_mary) on twitter and you can find me on linkedIn with the name [Mary Obiagba](https://www.linkedin.com/in/mary-obiagba-b7a2491a6/).
+I love to write about my experiences on my personal [dev-obiagba.hashnode.dev](https://dev-obiagba.hashnode.dev/) blog. I am [@Ifycode](https://github.com/Ifycode) on github, [@obiagba_mary](https://twitter.com/obiagba_mary) on twitter and you can find me on linkedIn with the name [Mary Obiagba](https://www.linkedin.com/in/mary-obiagba-b7a2491a6/) 🙋‍♀️
 
 ## Github stats
 [![Anurag's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ifycode&count_private=true&include_all_commits=true&show_icons=true&cache_seconds=1801)](https://github.com/Ifycode)
