@@ -3,7 +3,7 @@ Hi, I'm Obiagba Mary from Nigeria. Welcome to my profile page. I'm a software en
 
 ## Code Collabo community
 
-| [![node-mongo](https://github.com/Ifycode/Ifycode/blob/main/code-collabo/node-mongo-cli.gif?raw=true)](https://code-collabo.gitbook.io/node-mongo/)| [![temporary-library-img](https://user-images.githubusercontent.com/45185388/137257011-b0b9808f-61af-457c-8856-1bcd5a95cfb5.png)](https://github.com/code-collabo/scss-helper-library)|
+| [![node-mongo](https://github.com/Ifycode/Ifycode/blob/main/code-collabo/node-mongo-cli.gif?raw=true)](https://code-collabo.gitbook.io/node-mongo/)| [![styles-library-img](https://user-images.githubusercontent.com/45185388/138577389-57b90219-b8e5-45bf-9b5c-7c11375e107e.png)](https://github.com/code-collabo/styles-library)|
 |--|--|
 
 Founded [Code Collabo](https://github.com/code-collabo) in February 2021, a Free and Open Source Software community with awesome collaboration projects to provide support and open source experience 🙋‍♀️
