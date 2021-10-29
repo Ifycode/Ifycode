@@ -6,7 +6,7 @@ Hi, I'm Obiagba Mary from Nigeria. Welcome to my profile page. I'm a software en
 | [![node-mongo](https://github.com/Ifycode/Ifycode/blob/main/code-collabo/node-mongo-cli.gif?raw=true)](https://code-collabo.gitbook.io/node-mongo/)| [![styles-library-img](https://user-images.githubusercontent.com/45185388/138577389-57b90219-b8e5-45bf-9b5c-7c11375e107e.png)](https://github.com/code-collabo/styles-library)|
 |--|--|
 
-Founded [Code Collabo](https://github.com/code-collabo) in February 2021, a Free and Open Source Software community with awesome collaboration projects to provide support and open source experience 🙋‍♀️
+Founded and manage [Code Collabo](https://github.com/code-collabo) since February 2021, a Free and Open Source Software community with awesome collaboration projects to provide support and open source experience 🙋‍♀️
 
 ## Ushahidi community
 Read about my work at [Ushahidi](https://www.ushahidi.com/) during [Outreachy](https://www.outreachy.org/)'s May - August 2021 cohort, where I worked on the [Improve performance on the Ushahidi Platform Client](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience) project 🤓 <!-- - hashnode version of the article [here](https://dev-obiagba.hashnode.dev/think-about-your-audience).-->
