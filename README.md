@@ -1,22 +1,28 @@
 ## Mary says hello <img alt="waving png" height="25px" src="./wave-black.png"/>
 Hi, I'm Obiagba Mary from Nigeria. Welcome to my profile page. I'm a software engineer and technical writer, passionate about and actively contribute to open source software projects and community. 
 
+## Ushahidi community
+Been contributing to [Ushahidi](https://www.ushahidi.com/) since October 2020. Read about my work at  during [Outreachy](https://www.outreachy.org/)'s May - August 2021 cohort, where I worked on the [Improve performance on the Ushahidi Platform Client](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience) project 🤓 <!-- - hashnode version of the article [here](https://dev-obiagba.hashnode.dev/think-about-your-audience).-->
+
+| [![anna-mary-ushahidi-jamboard](https://user-images.githubusercontent.com/45185388/145659165-d6b0b8ea-2c40-4b8e-b6aa-2f7d75d5c7b8.png)](https://www.ushahidi.com/blog/2021/08/30/outreachy-internship-wrap-up) |
+|--|
+
+
 ## Code Collabo community
+
+Founded and manage [Code Collabo](https://github.com/code-collabo) since February 2021, a Free and Open Source Software community with awesome collaboration projects to provide open source experience 🙋‍♀️
 
 | [![node-mongo](https://github.com/Ifycode/Ifycode/blob/main/code-collabo/node-mongo-cli.gif?raw=true)](https://code-collabo.gitbook.io/node-mongo/)| [![styles-library-img](https://user-images.githubusercontent.com/45185388/138577389-57b90219-b8e5-45bf-9b5c-7c11375e107e.png)](https://github.com/code-collabo/styles-library)|
 |--|--|
 
-Founded and manage [Code Collabo](https://github.com/code-collabo) since February 2021, a Free and Open Source Software community with awesome collaboration projects to provide support and open source experience 🙋‍♀️
-
-## Ushahidi community
-Read about my work at [Ushahidi](https://www.ushahidi.com/) during [Outreachy](https://www.outreachy.org/)'s May - August 2021 cohort, where I worked on the [Improve performance on the Ushahidi Platform Client](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience) project 🤓 <!-- - hashnode version of the article [here](https://dev-obiagba.hashnode.dev/think-about-your-audience).-->
 
 ## GADS scholarship program
+
+Mobile web specialist mentor at the Google Africa Developer Scholarship program - I enjoy assisting and building projects for and/or alongside mentees assigned to me 😃
 
 |[![gads-project-gallery-gitbook](https://user-images.githubusercontent.com/45185388/137307432-edb89ca1-f916-4ab4-921f-799333c4d74f.png)](https://obiagba-mary.gitbook.io/gads-projects/contribution-guide/video-tutorials)| [![solvejs-github-repo](https://user-images.githubusercontent.com/45185388/137259185-c2461dc6-97c3-49e6-b1d2-99de6b5342b8.gif)](https://github.com/gads-projects/solve-js)|
 |--|--|
 
-Mobile web specialist mentor at the Google Africa Developer Scholarship program - I enjoy assisting and building projects for and/or alongside mentees assigned to me 😃
 
 ## Blogging and social media
 I love to write about my experiences on my personal [dev-obiagba.hashnode.dev](https://dev-obiagba.hashnode.dev/) blog. I am [@Ifycode](https://github.com/Ifycode) on github, [@obiagba_mary](https://twitter.com/obiagba_mary) on twitter and you can find me on linkedIn with the name [Mary Obiagba](https://www.linkedin.com/in/mary-obiagba-b7a2491a6/) 🙋‍♀️
