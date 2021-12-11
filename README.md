@@ -1,5 +1,9 @@
 ## Mary says hello <img alt="waving png" height="25px" src="./wave-black.png"/>
-Hi, I'm Obiagba Mary from Nigeria. Welcome to my profile page. I'm a software engineer and technical writer, passionate about and actively contribute to open source software projects and community. 
+Hi, I'm Obiagba Mary from Nigeria. Welcome to my profile page. I'm a software engineer and technical writer, passionate about and actively contribute to open source software projects and community. A little bit about me:
+- Melancholic
+- Love to listen to and play acoustic guitar
+- Teaching is a second nature
+- Nocturnal, but can adapt to any timezone. All I need to do is move my nights to whatever time i need it to be, when it's time 🙃
 
 ## Ushahidi community
 Been contributing to [Ushahidi](https://www.ushahidi.com/) since October 2020. Read about my work at  during [Outreachy](https://www.outreachy.org/)'s May - August 2021 cohort, where I worked on the [Improve performance on the Ushahidi Platform Client](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience) project 🤓 <!-- - hashnode version of the article [here](https://dev-obiagba.hashnode.dev/think-about-your-audience).-->
