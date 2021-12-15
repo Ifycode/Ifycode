@@ -6,7 +6,7 @@ Hi, I'm Obiagba Mary from Nigeria. Welcome to my profile page. I'm a software en
 - Nocturnal, but can adapt to any timezone. All I need to do is move my nights to whatever time i need it to be, when it's time 🙃
 
 ## Ushahidi community
-Been contributing to [Ushahidi](https://www.ushahidi.com/) since October 2020. Read about my work at  during [Outreachy](https://www.outreachy.org/)'s May - August 2021 cohort, where I worked on the [Improve performance on the Ushahidi Platform Client](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience) project 🤓 <!-- - hashnode version of the article [here](https://dev-obiagba.hashnode.dev/think-about-your-audience).-->
+Been contributing to [Ushahidi](https://www.ushahidi.com/) since October 2020. Read about my work at Ushahidi during [Outreachy](https://www.outreachy.org/)'s May - August 2021 cohort, where I worked on the [Improve performance on the Ushahidi Platform Client](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience) project 🤓 <!-- - hashnode version of the article [here](https://dev-obiagba.hashnode.dev/think-about-your-audience).-->
 
 | [![anna-mary-ushahidi-jamboard](https://user-images.githubusercontent.com/45185388/145659165-d6b0b8ea-2c40-4b8e-b6aa-2f7d75d5c7b8.png)](https://www.ushahidi.com/blog/2021/08/30/outreachy-internship-wrap-up) |
 |--|
