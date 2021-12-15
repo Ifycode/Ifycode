@@ -22,7 +22,7 @@ Founded and manage [Code Collabo](https://github.com/code-collabo) since Februar
 
 ## GADS scholarship program
 
-Mobile web specialist mentor at the Google Africa Developer Scholarship program - I enjoy assisting and building projects for and/or alongside mentees assigned to me 😃
+Program Assistant and Mobile web specialist mentor at the Google Africa Developer Scholarship program - I enjoy assisting mentors and mentees in the courses and projects they are undertaking 😃
 
 |[![gads-project-gallery-gitbook](https://user-images.githubusercontent.com/45185388/137307432-edb89ca1-f916-4ab4-921f-799333c4d74f.png)](https://obiagba-mary.gitbook.io/gads-projects/contribution-guide/video-tutorials)| [![solvejs-github-repo](https://user-images.githubusercontent.com/45185388/137259185-c2461dc6-97c3-49e6-b1d2-99de6b5342b8.gif)](https://github.com/gads-projects/solve-js)|
 |--|--|
