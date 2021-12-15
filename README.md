@@ -1,5 +1,5 @@
 ## Mary says hello <img alt="waving png" height="25px" src="./wave-black.png"/>
-Hi, I'm Obiagba Mary from Nigeria. Welcome to my profile page. I'm a software engineer and technical writer, passionate about and actively contribute to open source software projects and community. A little bit about me:
+Hi, I'm Obiagba Mary from Nigeria. Welcome to my profile page. I'm passionate about and actively contribute to open source software projects and community. A little bit about me:
 - Melancholic
 - Love to listen to and play acoustic guitar
 - Teaching is a second nature
