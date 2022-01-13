@@ -1,4 +1,10 @@
 ## Mary says hello <img alt="waving png" height="25px" src="./wave-black.png"/>
+
+Hi, I'm Obiagba Mary from Nigeria. Welcome to my profile page. I'm working on a new github profile so you may not find anything here for now. In the mean time, check out some projects I've worked on or developed:
+- [Code collabo's node mongo CLI](https://www.npmjs.com/package/@code-collabo/node-mongo-cli)
+- [Ushahidi's platform client and platform pattern library](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience)
+
+<!--
 Hi, I'm Obiagba Mary from Nigeria. Welcome to my profile page. I'm passionate about and actively contribute to open source software projects and community. A little bit about me:
 - Melancholic
 - Love to listen to and play acoustic guitar
@@ -6,7 +12,11 @@ Hi, I'm Obiagba Mary from Nigeria. Welcome to my profile page. I'm passionate ab
 - Nocturnal, but can adapt to any timezone. All I need to do is move my nights to whatever time i need it to be, when it's time 🙃
 
 ## Ushahidi community
-Been contributing to [Ushahidi](https://www.ushahidi.com/) since October 2020. Read about my work at Ushahidi during [Outreachy](https://www.outreachy.org/)'s May - August 2021 cohort, where I worked on the [Improve performance on the Ushahidi Platform Client](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience) project 🤓 <!-- - hashnode version of the article [here](https://dev-obiagba.hashnode.dev/think-about-your-audience).-->
+Been contributing to [Ushahidi](https://www.ushahidi.com/) since October 2020. Read about my work at Ushahidi during [Outreachy](https://www.outreachy.org/)'s May - August 2021 cohort, where I worked on the [Improve performance on the Ushahidi Platform Client](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience) project 🤓 
+--> 
+<!-- - hashnode version of the article [here](https://dev-obiagba.hashnode.dev/think-about-your-audience).-->
+
+<!--
 
 | [![anna-mary-ushahidi-jamboard](https://user-images.githubusercontent.com/45185388/145659165-d6b0b8ea-2c40-4b8e-b6aa-2f7d75d5c7b8.png)](https://www.ushahidi.com/blog/2021/08/30/outreachy-internship-wrap-up) |
 |--|
@@ -27,6 +37,7 @@ Program Assistant and Mobile web specialist mentor at the Google Africa Develope
 |[![gads-project-gallery-gitbook](https://user-images.githubusercontent.com/45185388/137307432-edb89ca1-f916-4ab4-921f-799333c4d74f.png)](https://obiagba-mary.gitbook.io/gads-projects/contribution-guide/video-tutorials)| [![solvejs-github-repo](https://user-images.githubusercontent.com/45185388/137259185-c2461dc6-97c3-49e6-b1d2-99de6b5342b8.gif)](https://github.com/gads-projects/solve-js)|
 |--|--|
 
+-->
 
 ## Blogging and social media
 I love to write about my experiences on my personal [dev-obiagba.hashnode.dev](https://dev-obiagba.hashnode.dev/) blog. I am [@Ifycode](https://github.com/Ifycode) on github, [@obiagba_mary](https://twitter.com/obiagba_mary) on twitter and you can find me on linkedIn with the name [Mary Obiagba](https://www.linkedin.com/in/mary-obiagba-b7a2491a6/) 🙋‍♀️
