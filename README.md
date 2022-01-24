@@ -2,7 +2,7 @@
 
 Hi, I'm Obiagba Mary from Nigeria. Welcome to my profile page. I'm working on a new github profile so you may not find anything here for now. In the mean time, check out some projects I've worked on or developed:
 - [Code collabo's node mongo CLI](https://www.npmjs.com/package/@code-collabo/node-mongo-cli)
-- [Ushahidi's platform client](https://github.com/ushahidi/platform-client) and [platform pattern library](https://github.com/ushahidi/platform-pattern-library)
+- [Ushahidi's platform client](https://github.com/ushahidi/platform-client) and [platform pattern library](https://github.com/ushahidi/platform-pattern-library). See [deployment sample here](https://ifycode.ushahidi.io/views/map).
 - [Improve the performance of the Ushahidi platform](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience)
 
 <!--
