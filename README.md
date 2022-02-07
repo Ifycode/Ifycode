@@ -7,9 +7,18 @@
 - 🤔 Looking for help with writing tests
 - ⚡ Fun fact: Back to rehearsing acoustic guitar
 
+## Blogging
+Find blog posts I've written on [Ushahidi](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience), [Hashnode](https://dev-obiagba.hashnode.dev/) and [Medium](https://medium.com/@obiagba.mary.ifeoma) ✍🏽
+
+## Social media
+I am [@Ifycode](https://github.com/Ifycode) on github, [@obiagba_mary](https://twitter.com/obiagba_mary) on twitter and you can find me on linkedIn with the name [Mary Obiagba](https://www.linkedin.com/in/mary-obiagba-b7a2491a6/) 🙋‍♀️
+
+ 
+
+
 <!--
 ## Blogging and social media
-I love to write about my experiences on my personal [dev-obiagba.hashnode.dev](https://dev-obiagba.hashnode.dev/) blog. I am [@Ifycode](https://github.com/Ifycode) on github, [@obiagba_mary](https://twitter.com/obiagba_mary) on twitter and you can find me on linkedIn with the name [Mary Obiagba](https://www.linkedin.com/in/mary-obiagba-b7a2491a6/) 🙋‍♀️
+I love to write about my experiences on my personal [dev-obiagba.hashnode.dev](https://dev-obiagba.hashnode.dev/) blog. 
 
 -->
 
