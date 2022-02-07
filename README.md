@@ -4,8 +4,8 @@
 - 🌱 Currently learning react and fullstack programming
 - 😄 Gender: Female
 - 💬 Ask me about open-source
-- 🤔 Looking for help with writing tests
-- ⚡ Fun fact: Back to rehearsing acoustic guitar
+-  😃 Also creating time for flutter and dart
+- ⚡ Fun fact: Back to rehearsing the acoustic guitar
 
 ## Blogging
 Find blog posts I've written on [Ushahidi](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience), [Hashnode](https://dev-obiagba.hashnode.dev/) and [Medium](https://medium.com/@obiagba.mary.ifeoma) ✍🏽
