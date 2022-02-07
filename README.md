@@ -1,9 +1,27 @@
+![mary-software-engineer-center](https://user-images.githubusercontent.com/45185388/152710496-22aae212-5288-4cec-9aa9-a4dab417caae.png)
+ 
+- 🔭 Building [Code Collabo](https://github.com/code-collabo)
+- 🌱 Currently learning react and fullstack programming
+- 😄 Gender: Female
+- 💬 Ask me about open-source
+- 🤔 Looking for help with writing tests
+- ⚡ Fun fact: Back to rehearsing acoustic guitar
+
+<!--
+## Blogging and social media
+I love to write about my experiences on my personal [dev-obiagba.hashnode.dev](https://dev-obiagba.hashnode.dev/) blog. I am [@Ifycode](https://github.com/Ifycode) on github, [@obiagba_mary](https://twitter.com/obiagba_mary) on twitter and you can find me on linkedIn with the name [Mary Obiagba](https://www.linkedin.com/in/mary-obiagba-b7a2491a6/) 🙋‍♀️
+
+-->
+
+
+<!--
 ## Mary says hello <img alt="waving png" height="25px" src="./wave-black.png"/>
 
 Hi, I'm Obiagba Mary from Nigeria. Welcome to my profile page. I'm working on a new github profile so you may not find anything here for now. In the mean time, check out some projects I've worked on or developed:
 - [Code collabo's node mongo CLI](https://www.npmjs.com/package/@code-collabo/node-mongo-cli)
 - [Ushahidi's platform client](https://github.com/ushahidi/platform-client) and [platform pattern library](https://github.com/ushahidi/platform-pattern-library). See [deployment sample here](https://ifycode.ushahidi.io/views/map).
 - [Improve the performance of the Ushahidi platform](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience)
+-->
 
 <!--
 Hi, I'm Obiagba Mary from Nigeria. Welcome to my profile page. I'm passionate about and actively contribute to open source software projects and community. A little bit about me:
@@ -40,8 +58,6 @@ Program Assistant and Mobile web specialist mentor at the Google Africa Develope
 
 -->
 
-## Blogging and social media
-I love to write about my experiences on my personal [dev-obiagba.hashnode.dev](https://dev-obiagba.hashnode.dev/) blog. I am [@Ifycode](https://github.com/Ifycode) on github, [@obiagba_mary](https://twitter.com/obiagba_mary) on twitter and you can find me on linkedIn with the name [Mary Obiagba](https://www.linkedin.com/in/mary-obiagba-b7a2491a6/) 🙋‍♀️
 
 ## Github stats
 [![Anurag's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ifycode&count_private=true&include_all_commits=true&show_icons=true&cache_seconds=1801)](https://github.com/Ifycode)
