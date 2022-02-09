@@ -1,4 +1,4 @@
-![mary-software-engineer-center](https://user-images.githubusercontent.com/45185388/152710496-22aae212-5288-4cec-9aa9-a4dab417caae.png)
+[![mary-software-engineer-center](https://user-images.githubusercontent.com/45185388/152710496-22aae212-5288-4cec-9aa9-a4dab417caae.png)](https://github.com/Ifycode)
  
 - 🔭 Building [Code Collabo](https://github.com/code-collabo)
 - 🌱 Currently learning react and fullstack programming
