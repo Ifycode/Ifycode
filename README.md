@@ -1,10 +1,11 @@
-[![mary-software-engineer-center](https://user-images.githubusercontent.com/45185388/152710496-22aae212-5288-4cec-9aa9-a4dab417caae.png)](https://github.com/Ifycode)
- 
+[![mary-fullstack-engineer-center](https://user-images.githubusercontent.com/45185388/155058120-542d73a5-b08a-49b4-b39c-f7875c353c46.png)](https://github.com/Ifycode)
+
+- 👩‍💻 Full stack engineer [Catlog](https://www.catlog.shop/)
 - 🔭 Building [Code Collabo](https://github.com/code-collabo)
-- 🌱 Currently learning react and fullstack programming
+- 🌱 Currently learning fullstack programming with react (nextjs) & nestjs
 - 😄 Gender: Female
 - 💬 Ask me about open-source
--  😃 Also creating time for flutter and dart
+- 😃 Also creating time for flutter and dart
 - ⚡ Fun fact: Back to rehearsing the acoustic guitar
 
 # 
