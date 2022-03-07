@@ -8,6 +8,10 @@
 - 😃 Also creating time for flutter and dart
 - ⚡ Fun fact: Back to rehearsing the acoustic guitar
 
+#
+- 👉 [Project board: @code-collabo/node-mongo](https://github.com/code-collabo/node-mongo-cli/projects)
+- 👉 [Project board: @code-collabo/styles-library](https://github.com/code-collabo/styles-library/projects)
+
 # 
 Find blog posts I've written on [Ushahidi](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience), [Hashnode](https://dev-obiagba.hashnode.dev/) and [Medium](https://medium.com/@obiagba.mary.ifeoma) ✍🏽
 
@@ -23,6 +27,21 @@ I am [@Ifycode](https://github.com/Ifycode) on github, [@obiagba_mary](https://t
 
 
 
+
+<!--
+
+<table>
+  <tr>
+    <td colspan="2">Contributions welcome 👉</td>
+    <td><a href="https://github.com/code-collabo/node-mongo-cli/projects">Project board: node-mongo</a></td>
+    <td><a href="https://github.com/code-collabo/styles-library/projects">Project board: styles-library</a></td>
+  </tr>
+</table>
+
+|Project boards|Links|
+|--|--|
+|||
+-->
 
 
 <!--
