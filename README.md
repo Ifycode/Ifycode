@@ -6,7 +6,7 @@
 - 😄 Gender: Female
 - 💬 Ask me about open-source
 - 😃 Also creating time for flutter and dart
-- ⚡ Fun fact: Back to rehearsing the acoustic guitar
+- ⚡ Fun fact(s): I'm very organised, consistency is 💯, and I love acoustic guitar
 
 #
 - 👉 [Project board: @code-collabo/node-mongo](https://github.com/code-collabo/node-mongo-cli/projects)
