@@ -2,7 +2,7 @@
 
 - 👩‍💻 Full stack engineer [Catlog](https://www.catlog.shop/)
 - 🔭 Building [Code Collabo](https://github.com/code-collabo)
-- 🌱 Currently learning fullstack programming with react (nextjs), nestjs, expresses and nodejs
+- 🌱 Currently learning fullstack programming with react (nextjs), nestjs, expressjs and nodejs
 - 😄 Gender: Female
 - 💬 Ask me about open-source
 - 😃 Also create time for flutter and dart (once in a while)
