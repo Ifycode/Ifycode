@@ -1,6 +1,6 @@
 [![mary-fullstack-engineer-center](https://user-images.githubusercontent.com/45185388/155058120-542d73a5-b08a-49b4-b39c-f7875c353c46.png)](https://github.com/Ifycode)
 
-- 👩‍💻 Full stack engineer [Catlog](https://www.catlog.shop/)
+- 👩‍💻 Product Engineer (Full stack) [Catlog](https://www.catlog.shop/)
 - 🔭 Building [Code Collabo](https://github.com/code-collabo)
 - 🌱 Currently learning fullstack programming with react (nextjs), nestjs, expressjs and nodejs
 - 😄 Gender: Female
