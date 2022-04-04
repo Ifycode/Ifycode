@@ -14,7 +14,7 @@
 - 👉 [Readme (no project board): @code-collabo/submit-a-blog-post](https://github.com/code-collabo/submit-a-blog-post)
 
 # 
-Find blog posts I've written on [Ushahidi](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience), [Hashnode](https://dev-obiagba.hashnode.dev/) and [Medium](https://medium.com/@obiagba.mary.ifeoma) ✍🏽
+Find blog posts I've written on [Code Collabo's blog](https://code-collabo.hashnode.dev), [Ushahidi's blog](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience), [Personal blogs: Hashnode](https://dev-obiagba.hashnode.dev/) [and Medium](https://medium.com/@obiagba.mary.ifeoma) ✍🏽
 
 # 
 I am [@Ifycode](https://github.com/Ifycode) on github, [@obiagba_mary](https://twitter.com/obiagba_mary) on twitter and you can find me on linkedIn with the name [Mary Obiagba](https://www.linkedin.com/in/mary-obiagba-b7a2491a6/) 🙋‍♀️
