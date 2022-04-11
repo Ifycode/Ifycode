@@ -11,7 +11,7 @@
 #
 - 👉 [Project board: @code-collabo/node-mongo](https://github.com/code-collabo/node-mongo-cli/projects)
 - 👉 [Project board: @code-collabo/styles-library](https://github.com/code-collabo/styles-library/projects)
-- 👉 [Readme (no project board): @code-collabo/submit-a-blog-post](https://github.com/code-collabo/submit-a-blog-post)
+- 👉 [Readme (no project board): @code-collabo/community-blog](https://github.com/code-collabo/community-blog)
 
 # 
 Find blog posts I've written on [Code Collabo's blog](https://code-collabo.hashnode.dev), [Ushahidi's blog](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience), [Personal blogs: Hashnode](https://dev-obiagba.hashnode.dev/) [and Medium](https://medium.com/@obiagba.mary.ifeoma) ✍🏽
