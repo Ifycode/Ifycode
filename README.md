@@ -3,10 +3,9 @@
 - 👩‍💻 Product Engineer [Catlog](https://www.catlog.shop/)
 - 👩‍💻 Frontend Engineer (Independent Contractor) [Ushahidi](https://www.ushahidi.com/)
 - 🔭 Building [Code Collabo](https://github.com/code-collabo)
-- 🌱 Currently learning fullstack programming with react (nextjs), nestjs, expressjs and nodejs
 - 😄 Gender: Female
 - 💬 Ask me about open-source
-- 😃 Also create time for flutter and dart (once in a while)
+- 🌱 Falling back to frontend for now... But learning fullstack programming with react (nextjs), nestjs, expressjs and nodejs.  Also create time for flutter and dart (once in a while).
 - ⚡ Fun fact(s): I'm very organised, consistency is 💯, and I love acoustic guitar
 
 #
