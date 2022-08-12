@@ -1,6 +1,6 @@
 [![mary-fullstack-engineer-center](https://user-images.githubusercontent.com/45185388/155058120-542d73a5-b08a-49b4-b39c-f7875c353c46.png)](https://github.com/Ifycode)
 
-- 👩‍💻 Product Engineer [Catlog](https://www.catlog.shop/)
+<!-- - 👩‍💻 Product Engineer [Catlog](https://www.catlog.shop/) -->
 - 👩‍💻 Frontend Engineer (Independent Contractor) [Ushahidi](https://www.ushahidi.com/)
 - 🔭 Building [Code Collabo](https://github.com/code-collabo)
 - 😄 Gender: Female
