@@ -5,13 +5,14 @@
 - 🔭 Building [Code Collabo](https://github.com/code-collabo)
 - 😄 Gender: Female
 - 💬 Ask me about open-source
-- 🌱 Falling back to frontend for now... But learning fullstack programming with react (nextjs), nestjs, expressjs and nodejs.  Also create time for flutter and dart (once in a while).
+- 🌱 Falling back to frontend for now... <!-- But learning fullstack programming with react (nextjs), nestjs, expressjs and nodejs.  Also create time for flutter and dart (once in a while). -->
 - ⚡ Fun fact(s): I'm very organised, consistency is 💯, and I love acoustic guitar
 
 #
+- 👉 [Read me (no project board) @Ifycode/git-github-training-resource](https://github.com/Ifycode/git-github-training-resource)
+- 👉 [Readme (no project board): @code-collabo/community-blog](https://github.com/code-collabo/community-blog)
 - 👉 [Project board: @code-collabo/node-mongo](https://github.com/code-collabo/node-mongo-cli/projects)
 - 👉 [Project board: @code-collabo/styles-library](https://github.com/code-collabo/styles-library/projects)
-- 👉 [Readme (no project board): @code-collabo/community-blog](https://github.com/code-collabo/community-blog)
 
 # 
 Find blog posts I've written on [Code Collabo's blog](https://code-collabo.hashnode.dev), [Ushahidi's blog](https://www.ushahidi.com/blog/2021/07/11/think-about-your-audience), [Personal blogs: Hashnode](https://dev-obiagba.hashnode.dev/) [and Medium](https://medium.com/@obiagba.mary.ifeoma) ✍🏽
