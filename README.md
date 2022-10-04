@@ -9,7 +9,7 @@
 - ⚡ Fun fact(s): I'm very organised, consistency is 💯, and I love acoustic guitar
 
 #
-- 👉 [Read me (no project board) @Ifycode/git-github-training-resource](https://github.com/Ifycode/git-github-training-resource)
+- 👉 [Read me (no project board): @Ifycode/git-github-training-resource](https://github.com/Ifycode/git-github-training-resource)
 - 👉 [Readme (no project board): @code-collabo/community-blog](https://github.com/code-collabo/community-blog)
 - 👉 [Project board: @code-collabo/node-mongo](https://github.com/code-collabo/node-mongo-cli/projects)
 - 👉 [Project board: @code-collabo/styles-library](https://github.com/code-collabo/styles-library/projects)
