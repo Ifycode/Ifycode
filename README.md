@@ -1,4 +1,6 @@
+<!--
 [![mary-fullstack-engineer-center](https://user-images.githubusercontent.com/45185388/155058120-542d73a5-b08a-49b4-b39c-f7875c353c46.png)](https://github.com/Ifycode)
+-->
 
 <!-- - 👩‍💻 Product Engineer [Catlog](https://www.catlog.shop/) -->
 - 👩‍💻 Engineer [Ushahidi](https://www.ushahidi.com/)
