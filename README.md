@@ -21,8 +21,10 @@
 # 
 Find blog posts I've written on [Ushahidi's blog](https://www.ushahidi.com/about/blog/ushahidi-api-modernization/), [Code Collabo's blog](https://code-collabo.hashnode.dev), [Personal blogs: Hashnode](https://dev-obiagba.hashnode.dev/) [and Medium](https://medium.com/@obiagba.mary.ifeoma) ✍🏽
 
+<!--
 # 
 I am [@Ifycode](https://github.com/Ifycode) on github, [@obiagba_mary](https://twitter.com/obiagba_mary) on twitter and you can find me on linkedIn with the name [Mary Obiagba](https://www.linkedin.com/in/mary-obiagba-b7a2491a6/) 🙋‍♀️
+-->
 
 #
 
