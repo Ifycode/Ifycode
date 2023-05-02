@@ -3,8 +3,8 @@
 -->
 
 <!-- - 👩‍💻 Product Engineer [Catlog](https://www.catlog.shop/) -->
-- 👩‍💻 Engineer [Ushahidi](https://www.ushahidi.com/)
-- 🔭 Building [Code Collabo](https://github.com/code-collabo/.github)
+- 👩‍💻 Engineer [Ushahidi](https://www.ushahidi.com)
+- 🔭 Building [Code Collabo](https://github.com/code-collabo)
 - 😄 Gender: Female
 - 💬 Ask me about open-source
 - 🌱 Falling back to frontend for now... <!-- But learning fullstack programming with react (nextjs), nestjs, expressjs and nodejs.  Also create time for flutter and dart (once in a while). -->
