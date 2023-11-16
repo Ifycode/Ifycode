@@ -3,12 +3,29 @@
 -->
 
 <!-- - 👩‍💻 Product Engineer [Catlog](https://www.catlog.shop/) -->
-- 👩‍💻 Engineer [Ushahidi](https://www.ushahidi.com)
-- 🔭 Building [Code Collabo](https://github.com/code-collabo)
+- 👩‍💻 Engineer @ [Ushahidi](https://www.ushahidi.com)
+- 🔭 Building [Collabo Community](https://resources.collabocommunity.com)
 - 😄 Gender: Female
-- 💬 Ask me about open-source
-- 🌱 Falling back to frontend for now... <!-- But learning fullstack programming with react (nextjs), nestjs, expressjs and nodejs.  Also create time for flutter and dart (once in a while). -->
+- 💬 Ask me about: Software Engineering, open source, collaboration and community
+- 🌱 What am I in tech exactly? Honestly I can't pinpoint. But I can tell you I'm evolving and discovering... <!-- Falling back to frontend for now... --> <!-- But learning fullstack programming with react (nextjs), nestjs, expressjs and nodejs.  Also create time for flutter and dart (once in a while). -->
 - ⚡ Fun fact(s): I'm very organised, consistency is 💯, and I love acoustic guitar
+
+
+<!--
+#
+
+## Github stats
+[![Anurag's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ifycode&count_private=true&include_all_commits=true&show_icons=true&cache_seconds=1801)](https://github.com/Ifycode)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ifycode&exclude_repo=Ifycode.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/Ifycode)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ifycode&" alt="Ifycode" /></p> 
+-->
+
+
+<!--
+# 
+Find blog posts I've written on [Ushahidi's blog](https://www.ushahidi.com/about/blog/ushahidi-api-modernization/), [Code Collabo's blog](https://code-collabo.hashnode.dev), [Personal blogs: Hashnode](https://dev-obiagba.hashnode.dev/) [and Medium](https://medium.com/@obiagba.mary.ifeoma) ✍🏽
+-->
+
 
 <!--
 #
@@ -18,22 +35,10 @@
 - 👉 [Project board: @code-collabo/styles-library](https://github.com/code-collabo/styles-library/projects)
 -->
 
-# 
-Find blog posts I've written on [Ushahidi's blog](https://www.ushahidi.com/about/blog/ushahidi-api-modernization/), [Code Collabo's blog](https://code-collabo.hashnode.dev), [Personal blogs: Hashnode](https://dev-obiagba.hashnode.dev/) [and Medium](https://medium.com/@obiagba.mary.ifeoma) ✍🏽
-
 <!--
 # 
 I am [@Ifycode](https://github.com/Ifycode) on github, [@obiagba_mary](https://twitter.com/obiagba_mary) on twitter and you can find me on linkedIn with the name [Mary Obiagba](https://www.linkedin.com/in/mary-obiagba-b7a2491a6/) 🙋‍♀️
 -->
-
-#
-
-## Github stats
-[![Anurag's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ifycode&count_private=true&include_all_commits=true&show_icons=true&cache_seconds=1801)](https://github.com/Ifycode)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ifycode&exclude_repo=Ifycode.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/Ifycode)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ifycode&" alt="Ifycode" /></p> 
-
-
 
 
 <!--
