@@ -5,7 +5,7 @@
 <!-- - 👩‍💻 Product Engineer [Catlog](https://www.catlog.shop/) -->
 - 👩‍💻 Engineer @ [Ushahidi](https://www.ushahidi.com)
 - 🔭 Building [Collabo Community](https://resources.collabocommunity.com)
-- 😄 Gender: Female
+- 😄 Gender: Obìnrin ni mí
 - 💬 Ask me about: Software Engineering, open source, collaboration and community
 - 🌱 What am I in tech exactly? Honestly I can't pinpoint. But I can tell you I'm evolving and discovering... <!-- Falling back to frontend for now... --> <!-- But learning fullstack programming with react (nextjs), nestjs, expressjs and nodejs.  Also create time for flutter and dart (once in a while). -->
 - ⚡ Fun fact(s): I'm very organised, consistency is 💯, and I love acoustic guitar
