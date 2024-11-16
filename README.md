@@ -10,6 +10,13 @@
 - 🌱 What am I in tech exactly? Honestly I can't pinpoint. But I can tell you I'm evolving and discovering... <!-- Falling back to frontend for now... --> <!-- But learning fullstack programming with react (nextjs), nestjs, expressjs and nodejs.  Also create time for flutter and dart (once in a while). -->
 - ⚡ Fun fact(s): I'm very organised, consistency is 💯, and I love acoustic guitar
 
+|Where to find me working on GitHub|Description|
+|:-- |:-- |
+|[Ushahidi](https://github.com/ushahidi)|Work GitHub Organization 💪🏽👷🏼‍♀️|
+|[Collabo Community](https://github.com/collabo-community)|Collaborative fun project, work and career discoveries in my spare time 💡 |
+|[Ifycode Extension](https://github.com/Ifycode-extension)|Projects built while learning, but are not "build-along" apps from resources visited 📽️ |
+|[Ifycode Study](https://github.com/Ifycode-study)|Learning projects, "build-along" apps and notes from resources visited 📖 |
+|[Ifycode Support](https://github.com/Ifycode-support)|Forks of external repos of persons I'm trying to assist 🤓 |
 
 <!--
 #
