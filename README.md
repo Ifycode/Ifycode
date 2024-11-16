@@ -4,7 +4,7 @@
 
 <!-- - 👩‍💻 Product Engineer [Catlog](https://www.catlog.shop/) -->
 - 👩‍💻 Engineer @ [Ushahidi](https://www.ushahidi.com)
-- 🔭 Building [Collabo Community](https://resources.collabocommunity.com)
+- 🔭 Building [Collabo Community](https://resources.collabo.community)
 - 😄 Gender: Obìnrin l'ọlọ́run dá mi
 - 💬 Ask me about: Software Engineering, open source, collaboration and community
 - 🌱 What am I in tech exactly? Honestly I can't pinpoint. But I can tell you I'm evolving and discovering... <!-- Falling back to frontend for now... --> <!-- But learning fullstack programming with react (nextjs), nestjs, expressjs and nodejs.  Also create time for flutter and dart (once in a while). -->
