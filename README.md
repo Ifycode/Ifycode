@@ -2,9 +2,7 @@
 [![mary-fullstack-engineer-center](https://user-images.githubusercontent.com/45185388/155058120-542d73a5-b08a-49b4-b39c-f7875c353c46.png)](https://github.com/Ifycode)
 -->
 
-<!-- - 👩‍💻 Product Engineer [Catlog](https://www.catlog.shop/) -->
-- 👩‍💻 Engineer @ [Ushahidi](https://www.ushahidi.com)
-- 🔭 Building [Collabo Community](https://resources.collabo.community)
+- 🔭 Building **Collabocate** and [Collabocate's Collabo Community](https://resources.collabo.community)
 - 😄 Gender: Obìnrin l'ọlọ́run dá mi
 - 💬 Ask me about: Software Engineering, open source, collaboration and community
 - 🌱 What am I in tech exactly? Honestly I can't pinpoint. But I can tell you I'm evolving and discovering... <!-- Falling back to frontend for now... --> <!-- But learning fullstack programming with react (nextjs), nestjs, expressjs and nodejs.  Also create time for flutter and dart (once in a while). -->
@@ -12,11 +10,22 @@
 
 |GitHub Workspaces|Description|
 |:-- |:-- |
+|[Collabocate](https://github.com/collabocate)|Umbrella organization for Collabocate's Collabo Community  ⛱️  |
+|[Collabocate's Collabo Community](https://github.com/collabocate-osc)|Open source community for Collabocate  💡 |
+
+
+<!-- - 👩‍💻 Product Engineer [Catlog](https://www.catlog.shop/) -->
+<!-- - 👩‍💻 Engineer @ [Ushahidi](https://www.ushahidi.com) -->
+
+<!--
+|GitHub Workspaces|Description|
+|:-- |:-- |
 |[Ushahidi](https://github.com/ushahidi)|Official work 💪🏽👷🏼‍♀️|
 |[Collabo Community](https://github.com/collabo-community)|Collaborative fun project, work and career discoveries in my spare time 💡 |
 |[Ifycode Extension](https://github.com/Ifycode-extension)|Projects built while learning, but are not "build-along" apps from resources visited 📽️ |
 |[Ifycode Study](https://github.com/Ifycode-study)|Learning projects, "build-along" apps and notes from resources visited 📖 |
 |[Ifycode Support](https://github.com/Ifycode-support)|Forks of external repos of persons I'm trying to assist 🤓 |
+-->
 
 <!--
 #
