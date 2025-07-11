@@ -2,7 +2,7 @@
 [![mary-fullstack-engineer-center](https://user-images.githubusercontent.com/45185388/155058120-542d73a5-b08a-49b4-b39c-f7875c353c46.png)](https://github.com/Ifycode)
 -->
 
-- 🔭 Building **Collabocate** and [Collabocate's Collabo Community](https://resources.collabo.community)
+- 🔭 Building **Collabocate** and **Collabocate's Collabo Community** <!--[Collabocate's Collabo Community](https://resources.collabo.community) -->
 - 😄 Gender: Obìnrin l'ọlọ́run dá mi
 - 💬 Ask me about: Software Engineering, open source, collaboration and community
 - 🌱 What am I in tech exactly? Honestly I can't pinpoint. But I can tell you I'm evolving and discovering... <!-- Falling back to frontend for now... --> <!-- But learning fullstack programming with react (nextjs), nestjs, expressjs and nodejs.  Also create time for flutter and dart (once in a while). -->
