@@ -10,7 +10,7 @@
 
 |GitHub Workspaces|Description|
 |:-- |:-- |
-|[Collabocate](https://github.com/collabocate)|Umbrella organization for Collabocate's Collabo Community  ⛱️  |
+|[Collabocate](https://github.com/collabocate)| Tech solutions to help orgs stay aligned with their purpose  ⛱️  |
 |[Collabocate's Collabo Community](https://github.com/collabocate-osc)|Open source community for Collabocate  💡 |
 
 
