@@ -16,4 +16,4 @@
 |My GitHub Project Boards|Description|
 |:-- |:-- |
 |[MSSE Degree Progress Tracker](https://github.com/orgs/Ifycode-Quantic-MSSE/projects/3/views/9?pane=info)| Weekly planning & automated progress tracking for courses I'm taking |
-|[Collabocate's Collabo Community](https://github.com/orgs/collabocate-osc/projects/1)|Open source community for research & development of open source tools 💡 |
+|[Collabocate's Collabo Community](https://github.com/orgs/collabocate-osc/projects/1?pane=info)|Open source community for research & development of open source tools 💡 |
