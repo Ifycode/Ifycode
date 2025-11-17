@@ -14,7 +14,7 @@
 > I prefer to organize my work on GitHub using Github organizations. I also make use of the Github project board a lot. GitHub project boards that show what I'm actively working on can be found in the tables below.
 
 > [!NOTE]
-> **Access GitHub project boards using web browser not from the app**
+> **Access GitHub project boards from the web and not from the app**
 > 
 > Access GitHub project boards using a web browser and not the GitHub mobile app, to see the project board layouts properly. GitHub mobile app does not yet support project board at the moment.
 
