@@ -15,6 +15,6 @@
 
 |My GitHub Project Boards|Description|
 |:-- |:-- |
-|[MSSE Degree Progress Tracker](https://github.com/orgs/Ifycode-Quantic-MSSE/projects/3/views/9?pane=info)| Weekly planning & automated progress tracking for courses I'm taking |
-|[Build in Blocks](https://github.com/orgs/build-in-blocks/projects/1/views/1?pane=info)| Project management board for Build in Blocks developer tool suite |
-|[Collabocate's Collabo Community](https://github.com/orgs/collabocate-osc/projects/1?pane=info)|Project management board for my community research & development |
+|[MSSE Degree Progress Tracker](https://github.com/orgs/Ifycode-Quantic-MSSE/projects/3)| Weekly planning & automated progress tracking for courses I'm taking |
+|[Build in Blocks](https://github.com/orgs/build-in-blocks/projects/1)| Project management board for Build in Blocks developer tool suite |
+|[Collabocate's Collabo Community](https://github.com/orgs/collabocate-osc/projects/1)|Project management board for my community research & development |
