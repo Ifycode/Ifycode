@@ -13,8 +13,8 @@
 > 
 > I prefer to organize my work on GitHub using Github organizations. I also make use of the Github project board a lot. GitHub project boards that show what I'm actively working on can be found in the tables below.
 
-|My GitHub Project Boards|Description|
-|:-- |:-- |
-|[MSSE Degree Progress Tracker](https://github.com/orgs/Ifycode-Quantic-MSSE/projects/3)| Weekly planning & automated progress tracking for courses I'm taking |
-|[Build in Blocks](https://github.com/orgs/build-in-blocks/projects/1)| Project management board for Build in Blocks developer tool suite |
-|[Collabocate's Collabo Community](https://github.com/orgs/collabocate-osc/projects/1)|Project management board for my community research & development |
+|Project Board Links|Board README|Brief Description|
+|:-- |:-- |:-- |
+|[MSSE Degree](https://github.com/orgs/Ifycode-Quantic-MSSE/projects/3)| https://github.com/orgs/Ifycode-Quantic-MSSE/projects/3?pane=info | Weekly planning & automated progress tracking for courses I'm taking |
+|[Build in Blocks](https://github.com/orgs/build-in-blocks/projects/1)| https://github.com/orgs/build-in-blocks/projects/1?pane=info | Project management board for Build in Blocks developer tool suite |
+|[Collabocate's Collabo Community](https://github.com/orgs/collabocate-osc/projects/1)| https://github.com/orgs/collabocate-osc/projects/1?pane=info | Project management board for my community research & development |
