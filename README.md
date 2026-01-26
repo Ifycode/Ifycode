@@ -1,3 +1,11 @@
+> [!TIP]
+> **Why is there only 1 repository showing up in my Github account?**
+> 
+> I prefer to organize my work on GitHub using Github organizations. I also make use of the Github project board a lot. GitHub project boards that show what I'm actively working on can be found in the tables below.
+
+#
+
+#### ABOUT ME
 
 - 👩🏽‍💻 Master of Science in Software Engineering (MSSE) student
 - 🔭 Building **Build in Blocks** and **Collabocate's Collabo Community** <!--[Collabocate's Collabo Community](https://resources.collabo.community) -->
@@ -6,6 +14,27 @@
 - 🌱 What am I in tech exactly? Someone who advocates for healthy balance in both user and developer experience (and satisfaction)
 - ⚡ Fun fact(s): I'm very organised, consistency is 💯, and I love acoustic guitar timbre
 
+#
+
+#### 2026 LEARNING
+
+|Project Board|Description|
+|:-- |:--|
+|[MSSE Degree Planner 2025 - 2026](https://github.com/orgs/Ifycode-Quantic-MSSE/projects/3)| Weekly planning & automated progress tracking for my MSSE degree studies |
+|[Personal Learning Course Planner](https://github.com/orgs/Ifycode-study/projects/1/views/1)| Progress tracker & project management board for personal development courses |
+
+#
+
+#### WHAT I'M BUILDING
+
+|Project Board|Description|
+|:-- |:--|
+|[Build in Blocks](https://github.com/orgs/build-in-blocks/projects/2/views/1)| A developer tool suite |
+|[Collabocate](https://github.com/orgs/collabocate/projects/1)| "Team-to-user" sync tools |
+|[Collabocate's Collabo Community](https://github.com/orgs/collabocate-osc/projects/8/views/1)| FOSS community connecting contributors to OSS projects |
+
+
+<!--
 #
 
 > [!TIP]
@@ -23,12 +52,12 @@
 |[MSSE Degree Planner 2025 - 2026](https://github.com/orgs/Ifycode-Quantic-MSSE/projects/3)| Weekly planning & automated progress tracking for MSSE studies - [open README](https://github.com/orgs/Ifycode-Quantic-MSSE/projects/3?pane=info) |
 |[Build in Blocks](https://github.com/orgs/build-in-blocks/projects/1)| Project management board for Build in Blocks developer tool suite - [open README](https://github.com/orgs/build-in-blocks/projects/1?pane=info) |
 |[Collabocate's Collabo Community](https://github.com/orgs/collabocate-osc/projects/1)| Project management board for community research & development - [open README](https://github.com/orgs/collabocate-osc/projects/1?pane=info) |
-
+-->
 
 <!--
 |Project Board Links|Board README|Brief Description|
 |:-- |:-- |:-- |
-|[MSSE Degree Planner](https://github.com/orgs/Ifycode-Quantic-MSSE/projects/3)| [Open README](https://github.com/orgs/Ifycode-Quantic-MSSE/projects/3?pane=info) | Weekly planning & automated progress tracking for MSSE studies |
 |[Build in Blocks](https://github.com/orgs/build-in-blocks/projects/1)| [Open README](https://github.com/orgs/build-in-blocks/projects/1?pane=info) | Project management board for Build in Blocks developer tool suite |
+|[MSSE Degree Planner](https://github.com/orgs/Ifycode-Quantic-MSSE/projects/3)| [Open README](https://github.com/orgs/Ifycode-Quantic-MSSE/projects/3?pane=info) | Weekly planning & automated progress tracking for MSSE studies |
 |[Collabocate's Collabo Community](https://github.com/orgs/collabocate-osc/projects/1)| [Open README](https://github.com/orgs/collabocate-osc/projects/1?pane=info) | Project management board for community research & development |
 -->
