@@ -30,8 +30,11 @@
 |Project Board|Description|
 |:-- |:--|
 |[Build in Blocks](https://github.com/orgs/build-in-blocks/projects/2/views/1)| A developer tool suite |
+
+<!--
 |[Collabocate](https://github.com/orgs/collabocate/projects/1)| "Team-to-user" sync tools |
 |[Collabocate's Collabo Community](https://github.com/orgs/collabocate-osc/projects/8/views/1)| FOSS community connecting contributors to OSS projects |
+-->
 
 
 <!--
