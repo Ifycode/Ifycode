@@ -1,7 +1,7 @@
 > [!TIP]
 > **Why is there only 1 repository showing up in my Github account?**
 > 
-> I prefer to organize my work on GitHub using Github organizations. I also make use of the Github project board a lot. GitHub project boards that show what I'm actively working on can be found in the tables below.
+> I prefer to organize my work on GitHub using Github organizations. I also make use of the Github project board a lot. The projects that I'm actively working on can be found in the tables below.
 
 #
 
@@ -13,6 +13,33 @@
 - 💬 Ask me about: Software Engineering, open source, collaboration and community
 - 🌱 What am I in tech exactly? Someone who advocates for healthy balance in both user and developer experience (and satisfaction)
 - ⚡ Fun fact(s): I'm very organised, consistency is 💯, and I love acoustic guitar timbre
+
+#
+
+#### WHAT I'M BUILDING
+
+Currently developing **Build in Blocks**, a framework consisting a group of libraries (i.e. it's a developer tool suite) with in-built intelligence that tracks the state of your (web, mobile, desktop) app's code resources. It uses this dynamic data (i.e. data unique to your code base) to intuitively deliver a highly performant and accessible app, saving engineers and R&D teams time during app development and drastically reducing the very high costs associated with app maintainance/upgrades. Its structured environment also eliminates expensive "trial-and-error" loops that drive up AI token usage costs.
+
+**Release cycle & sprint board:** https://github.com/orgs/build-in-blocks/projects/2/views/6
+
+|@build-in-blocks libraries |Description |NPM package links |
+|:-- |:-- |:-- |
+|@build-in-blocks/dom.autoquery |Intuitive accessibility-oriented DOM manipulation library |[npm pkg - @build-in-blocks/dom.autoquery](https://www.npmjs.com/package/@build-in-blocks/dom.autoquery) |
+|@build-in-blocks/dev.build |Production and development webpack bundler build setup |[npm pkg - @build-in-blocks/dev.build](https://www.npmjs.com/package/@build-in-blocks/dev.build) |
+|@build-in-blocks/dev.setup |Typescript development environment & CI/CD setup |[npm pkg - @build-in-blocks/dev.setup](https://www.npmjs.com/package/@build-in-blocks/dev.setup) |
+|@build-in-blocks/dev.resources |Shared blocks framework TS code development library |[npm pkg - @build-in-blocks/dev.resources](https://www.npmjs.com/package/@build-in-blocks/dev.resources) |
+
+#
+
+#### 2026 LEARNING
+
+|Project Board|Description|
+|:-- |:--|
+|[MSSE Degree Planner 2025 - 2026](https://github.com/orgs/Ifycode-Quantic-MSSE/projects/3)| Weekly planning & automated progress tracking for my MSSE degree studies |
+|[Personal Learning Course Planner](https://github.com/orgs/Ifycode-study/projects/1/views/1)| Progress tracker & project management board for personal development courses |
+
+
+<!--
 
 #
 
@@ -30,6 +57,9 @@
 |Project Board|Description|
 |:-- |:--|
 |[Build in Blocks](https://github.com/orgs/build-in-blocks/projects/2/views/1)| A developer tool suite |
+
+-->
+
 
 <!--
 |[Collabocate](https://github.com/orgs/collabocate/projects/1)| "Team-to-user" sync tools |
