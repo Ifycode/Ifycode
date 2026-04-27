@@ -18,7 +18,7 @@
 
 #### WHAT I'M BUILDING
 
-Currently developing **Build in Blocks**, a framework consisting a group of libraries (i.e. it's a developer tool suite) with in-built intelligence that tracks the state of your (web, mobile, desktop) app's code resources. It uses this dynamic data (i.e. data unique to your code base) to intuitively deliver a highly performant and accessible app, saving engineers and R&D teams time during app development and drastically reducing the very high costs associated with app maintainance/upgrades. Its structured environment also eliminates expensive "trial-and-error" loops that drive up AI token usage costs.
+Currently developing **Build in Blocks**, a framework consisting of a group of libraries with in-built intelligence that tracks the state of your app's code resources (web, mobile, desktop). It uses this dynamic data to intuitively deliver highly performant and accessible applications, saving engineers and R&D teams significant time and drastically reducing the high costs associated with app maintenance and upgrades. Its structured environment also eliminates expensive "trial-and-error" loops that drive up AI token usage costs.
 
 **Release cycle & sprint board:** https://github.com/orgs/build-in-blocks/projects/2/views/6
 
@@ -37,6 +37,13 @@ Currently developing **Build in Blocks**, a framework consisting a group of libr
 |:-- |:--|
 |[MSSE Degree Planner 2025 - 2026](https://github.com/orgs/Ifycode-Quantic-MSSE/projects/3)| Weekly planning & automated progress tracking for my MSSE degree studies |
 |[Personal Learning Course Planner](https://github.com/orgs/Ifycode-study/projects/1/views/1)| Progress tracker & project management board for personal development courses |
+
+
+<!-- 
+
+Currently developing **Build in Blocks**, a framework consisting of a group of libraries (i.e. it's a developer tool suite) with in-built intelligence that tracks the state of your (web, mobile, desktop) app's code resources. It uses this dynamic data (i.e. data unique to your code base) to intuitively deliver a highly performant and accessible app, saving engineers and R&D teams time during app development and drastically reducing the very high costs associated with app maintenance/upgrades. Its structured environment also eliminates expensive "trial-and-error" loops that drive up AI token usage costs.
+
+-->
 
 
 <!--
