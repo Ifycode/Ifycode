@@ -18,7 +18,7 @@
 
 #### WHAT I'M BUILDING
 
-Currently developing **Build in Blocks**, a framework consisting of a group of libraries with in-built intelligence that tracks the state of your app's code resources (web, mobile, desktop). It uses this dynamic data to intuitively deliver highly performant and accessible applications, saving engineers and R&D teams significant time and drastically reducing the high costs associated with app maintenance and upgrades. Its structured environment also eliminates expensive "trial-and-error" loops that drive up AI token usage costs.
+Currently developing **Build in Blocks**, a framework consisting of a group of libraries with in-built intelligence that tracks the state of your app's code resources (web, mobile, desktop). It uses this dynamic data to intuitively deliver highly performant and accessible applications, saving engineers and R&D teams significant time and drastically reducing the high costs associated with app maintenance and upgrades. Its structured environment also eliminates expensive "trial-and-error" loops that drive up AI token usage costs. Not anti-AI, just that by default it's goal is to be powerful and to offer enhanced capabilities needed to keep your app constantly ready for change, with or without AI.
 
 **Release cycle & sprint board:** https://github.com/orgs/build-in-blocks/projects/2/views/6
 
